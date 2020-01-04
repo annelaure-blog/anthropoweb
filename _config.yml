@@ -22,12 +22,12 @@ title: Climax
 email: denise.andrea@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Le blog d'Anne-Laure Fréant : cultures numériques, données, sciences humaines, écologie
-  Climax : "Le climax est un concept qui ne s’applique véritablement qu’aux milieux naturels, peu ou pas modifiés 
-  par l’Homme ou vers lesquels un milieu évoluerait si l’homme n’y intervenait plus."
+  . Climax : "Le climax est un concept qui s’applique aux milieux naturels, peu ou pas modifiés 
+  par l’Homme ou vers lesquels un milieu évoluerait si l’Homme n’y intervenait plus."
 baseurl: "/climax" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pickmeupAL
-github_username:  andreadataLT
+github_username:  annelaure-blog
 
 # Build settings
 theme: minima
