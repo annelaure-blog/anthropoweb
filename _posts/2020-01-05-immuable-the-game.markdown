@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "L'immuable est-il mort ? Lecture de "The Game", d'Alessandro Baricco"
+title:  "L'immuable est-il mort ? Lecture de The Game, d'Alessandro Baricco"
 date:   2020-01-05 20:47:47 +0100
 categories: blog_post
 author : Anne-Laure
