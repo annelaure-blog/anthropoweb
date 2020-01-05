@@ -1,0 +1,111 @@
+---
+layout: post
+title:  "L'histoire fascinante de l'insurrection numérique : Lecture de The Game, d'Alessandro Baricco"
+date:   2020-01-05 20:47:47 +0100
+categories: blog_post
+author : Anne-Laure
+---
+
+En lisant "The Game" d'Alessandro Baricco, le première idée qui frappe est celle de *fluidité* et de *monde liquide* comme expériences fondatrices de l'ère numérique. 
+
+Le premier exemple donné date de 1978 avec la création du jeu vidéo. 
+
+Là où, de l'expérience physique du *baby-foot* (une expérience rugueuse, impliquant les secousses ressenties
+dans les mains, les sons de la balle qui frappe contre les joueurs, le toucher de la barre), puis du *flipper* (séparé du joueur par une vitre, jeu individuel, encore très matériel et sonore), 
+arrive *space invader* où le joueur se tient immobile, les doigts sur les boutons, face à l'écran sans vibration, sans odeur.
+
+>"Et maintenant, mettez-vous à jouer et essayez de sentir la soudaine absence de frottement, la douceur de la surface de jeu, la légèreté du geste, le flux presque
+liquide des ordres et des décisions, la réduction de toute situation de jeu à son essence, la propreté du système, la possibilité d'une concentration presque totale, 
+la vitesse des évènements". (p. 54)
+
+Une expérience *fluide*. S'assoir devant la borne d'arcade est comme rejoindre une extension de la main et du cerveau,  sans toutes les rugosités intermédiaires.
+
+>"L'expérience qui change de consistance" (p. 55)
+
+Ainsi naît le trinôme : **humain-clavier-écran**. 
+
+La nouvelle "ère numérique", le "Game", n'a pas pour origine un projet politique traditionnel, mais une **contre-culture** dont les racines sont californiennes, hippies, et érigent le partage de l'information 
+en réseaux comme un principe fondateur (voir à ce sujet *"From Counterculture to Cyberculture : Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism"* par Fred Turner, 2006).
+C'est une révolution née des outils de la guerilla qui cherche à court-circuiter tous les intermédiaires, y compris les processus traditionnels de négociation avec les institutions (surtout ceux-là). 
+C'est l'ambition de créer un monde capable de contenir tous les mondes, de les y archiver.
+
+Qu'on ne s'y trompe pas, *c'est l'intelligence de l'humain moderne qui a donné lieu à la révolution numérique*, et non l'inverse. 
+La fluidité du virtuel émerge de désirs inscrits dans notre inconscient collectif. Désir de s'arracher du passé barbare que fut le XXème siècle. 
+Désir de s'affranchir d'une certaine pensanteur, de la lenteur, d'une certaine inertie à n'être qu'à un seul endroit à la fois, sans extensions possibles dans d'autres dimensions.
+**Un seul monde ne nous suffisait plus, nous avons donc embrassé le numérique comme extension de nous-mêmes.** 
+Nous pourrions aujourd'hui choisir de nous en séparer, après tout. 
+Pourtant nous n'en faisons rien. Subsiste ce désir diffu et insaisissable d'échapper encore et toujours à quelque chose.
+
+>"Si la révolution numérique vous effraie, inversez la séquence et demandez-vous à quoi nous voulions échapper lorsque nous avons entamé une telle révolution. Cherchez l'intelligence qui a donné
+le jour à la révolution numérique : c'est beaucoup plus important que d'étudier celle qu'elle a engendré" (p. 46)
+
+Baricco considère que la "vertèbre 0" de l'ère numérique est le *Space Invader* de 1978. 
+
+Sur ces prémisses se construit **"l'âge classique", de 1981 à 1998** soit du Commodore 64 à Google, où se mettent en place les fondations du "Game" : 
+
+- 1981 - 1984 : l'invention du "P" de PC, soit le fait qu'un ordinateur peut désormais être "personnel" et entrer dans la sphère domestique individuelle,
+- 1990 - 1991 : **l'invention du Web** (protocole TCP/IP et hyperliens) par Tim Berners-Lee (et quelques autres que l'Histoire retiendra moins), 
+- 1993 : l'invention du MP3 et du premier navigateur web *Mosaic*,
+- 1995 : lancement de **Windows 95** par Microsoft,
+- 1998 : la naissance de **Google** que l'on doit à Sergey Brin & Larry Page.
+
+Il est suivi de **"la colonisation", de 1999 à 2007**, où tout prend de l'ampleur :
+
+- 2001 : naissance de Wikipedia
+
+>"Formidable exemple de deuxième monde construit quotidiennement par les utilisateurs, en sautant pas mal de médiations et en éliminant de façon spectaculaire les élites traditionnelles.
+(...)N'importe qui peut contribuer à toute entrée, la modifier, la traduire. Comment se peut-il que cela ne produise pas un gigantesque chaos ? L'idée de base, c'est que quatre érudits bien
+intentionnés n'obtiendront jamais, en se concentrant sur l'entrée 'France', plus de précisions que l'on peut en avoir en laissant à toutes les personnes libres qui vivent sur cette planète
+la possibilité d'intervenir." (p. 142 - 143)
+
+- 2002 : naissance de **LinkedIn**, premier concept de réseau social.
+- 2003 - 2016 : commercialisation du **Black Berry** et première expérience du PC que l'on mets dans la poche et que l'on emporte partout avec soi, en tous temps.
+- 2004 : lancement de Facebook. L'éditeur Tim O'Reilly invente l'expression du **web 2.0**, celui où l'utilisateur ne se contente plus de surfer et de consulter des contenus statiques, mais où il
+interagit, publie, commente, nourrit le Web.
+- 2005 : naissance de **Youtube**
+- 2006 : naissance de **Twitter**
+- 2007 : Amazon lance le Kindle, qui ne détruira pas le livre papier comme on le craignait tant,
+- Et enfin 2007 : le **lancement de l'Iphone par Apple**, le smartphone qui révolutionne les interactions humains-clavier(tactile)-machine en rendant des processus complexes
+d'un point de vue technologique excessivement simples d'utilisation.
+
+>"(...) avec des instruments comme ceux-là, l'insurrection numérique frappait en plein coeur la culture du XXeme siècle, désintégrant son principe fondamental : l'idée que le noyau de l'expérience
+était inscrit en profondeur, accessible seulement par l'effort et avec l'aide d'un intermédiaire. Ce noyau, l'insurrection numérique l'a arraché aux griffes des élites et l'a fait apparaître au grand jour.
+Elle ne l'a pas détruit, elle ne l'a pas annulé ni banalisé, (...) : elle l'a libéré à la surface du monde."(p. 180)
+
+Le paysage de l'ère numérique est désormais peuplé de grandes chaînes montagneuses, ayant "brisé la croûte terrestre de nos habitudes mentales" dit Baricco.
+Mais l'histoire ne s'arrête pas là, elle fonce et accélère, même, vers **la phase du "game" : 2008 - 2016**, là ou achève de se fabriquer "le monde dans lequel nous vivons".
+
+- 2008 : naissance de **Spotify** (start-up suédoise et non américaine comme tant d'autres)
+- 2008 : **ouverture aux ventes des applications sur l'Iphone**. En 4 jours, 10 millions d'applications sont téléchargées. C'est l'entrée dans *l'ère des "applis"*.
+- 2009 : naissance de **Whatsapp**, d'inventeurs "deuxième génération", employés de Yahoo! et utilisateurs d'iphones. (Whatsapp a été vendu à Facebook en 2014 pour 19 milliards de dollars)
+- 2010 : naissance **d'Instagram**
+- 2011 : l'année où les utilisations des applis dépassent l'utilisation traditionnelle du web.
+- 2012 : **fin du système analogique de transmission de la télévision** en Italie et partout dans le monde (sauf en Corée du Nord où la télévision numérique n'accède pas)
+- 2016 : victoire d'AlphaGo face au champion mondial du jeu de go, perçu comme le triomphe de **l'Intelligence Artificielle** qui se diffuse dans toutes les sphères du "game".
+
+
+>"Le Game n'a pas de constitution écrite. Il n'y a pas de "textes" qui le légitiment, le règlent ou le fondent. Cependant, il en existe certains 
+dans lesquels son patrimoine génétique est conservé. J'en cite au moins cinq, qui devraient être étudiés à l'école : Spacewar, l'un des premiers
+jeux vidéos de l'histoire (1972) ; le site Web où Tim Berners-Lee expliquait ce qu'était un site Web (1991) ; l'algorithme original de Google (1998);
+la présentation de l'iPhone par Steve Jobs (2007) ; l'audition de Mark Zuckerberg devant les commissions Justice et Commerce du Sénat américain (2018)." (p.367)
+
+S'il ne fallait en sauver qu'un dans le déluge, Baricco dit le premier, en cela qu'il contenait déjà toute l'architecture du "projet numérique" et de la posture **humain-clavier-écran**.
+
+Je retiendrais du "Game" trois choses :
+- le but principal qui l'a vu naître, son "intuition d'origine", était **d'empêcher qu'une tragédie comme celle du XXeme siècle ne se reproduise**,
+- l'insurrection numérique n'est pas née de courants idéologiques ou esthétiques, mais d'une **pensée "technico-scientifique"**, attelée à la production d'outils et de solutions pratiques avant tout,
+- le "game" est un pacte de l'Homme avec la machine qui a méthodiquement miné les fondements du siècle passé : lutter contre l'immobilité, les élites traditionnelles, et distribuer "le pouvoir au peuple" en
+faisant entrer les machines tous dans les foyers, et en connectant tous les "tiroirs" les uns avec les autres (grâce au Web)
+
+Aujourd'hui, **l'avenir du "game" repose entre les mains de ses enfants** : vont-ils être en mesure de renverser la première génération d'élites du Game (presque toutes devenues conservatrices désormais), pour mettre 
+entre les mains des gens des outils comme autant de nouvelles lignes de fuites, comme autant de nouvelles insurrections ? 
+Les militants du libre et de la neutralité du Web sont de ceux-là, par exemple. Dès lors comment rendre leur message dominant ? 
+Comment changer les règles du "game" pour en redresser la barre ?
+Faudra-t-il revenir aux outils d'avant pour court-circuiter le "game", du moins le temps de s'en ré-emparer ?
+
+
+*"The game", Alessandro Baricco, Gallimard, 2018, 374 p.*
+![The game cover](/_posts/images/thegame.jpg)
+
+
+
