@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "L'immuable est-il mort ? Lecture de The Game, d'Alessandro Baricco"
+title:  "L'histoire fascinante de l'insurrection numérique : Lecture de The Game, d'Alessandro Baricco"
 date:   2020-01-05 20:47:47 +0100
 categories: blog_post
 author : Anne-Laure
@@ -42,6 +42,7 @@ le jour à la révolution numérique : c'est beaucoup plus important que d'étud
 Baricco considère que la "vertèbre 0" de l'ère numérique est le *Space Invader* de 1978. 
 
 Sur ces prémisses se construit **"l'âge classique", de 1981 à 1998** soit du Commodore 64 à Google, où se mettent en place les fondations du "Game" : 
+
 - 1981 - 1984 : l'invention du "P" de PC, soit le fait qu'un ordinateur peut désormais être "personnel" et entrer dans la sphère domestique individuelle,
 - 1990 - 1991 : **l'invention du Web** (protocole TCP/IP et hyperliens) par Tim Berners-Lee (et quelques autres que l'Histoire retiendra moins), 
 - 1993 : l'invention du MP3 et du premier navigateur web *Mosaic*,
@@ -49,6 +50,7 @@ Sur ces prémisses se construit **"l'âge classique", de 1981 à 1998** soit du 
 - 1998 : la naissance de **Google** que l'on doit à Sergey Brin & Larry Page.
 
 Il est suivi de **"la colonisation", de 1999 à 2007**, où tout prend de l'ampleur :
+
 - 2001 : naissance de Wikipedia
 
 >"Formidable exemple de deuxième monde construit quotidiennement par les utilisateurs, en sautant pas mal de médiations et en éliminant de façon spectaculaire les élites traditionnelles.
@@ -103,7 +105,7 @@ Faudra-t-il revenir aux outils d'avant pour court-circuiter le "game", du moins 
 
 
 *"The game", Alessandro Baricco, Gallimard, 2018, 374 p.*
-(/alf_blog/_posts/images/thegame.jpg)
+![The game cover](/_posts/images/thegame.jpg)
 
 
 
