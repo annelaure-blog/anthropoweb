@@ -4,7 +4,6 @@ title:  "L'histoire fascinante de l'insurrection numérique : Lecture de The Gam
 date:   2020-01-05 20:47:47 +0100
 categories: blog_post
 author : Anne-Laure
-excerpt_separator: <!--more-->
 ---
 
 En lisant "The Game" d'Alessandro Baricco, le première idée qui frappe est celle de *fluidité* et de *monde liquide* comme expériences fondatrices de l'ère numérique. 
@@ -18,8 +17,6 @@ arrive *space invader* où le joueur se tient immobile, les doigts sur les bouto
 >"Et maintenant, mettez-vous à jouer et essayez de sentir la soudaine absence de frottement, la douceur de la surface de jeu, la légèreté du geste, le flux presque
 liquide des ordres et des décisions, la réduction de toute situation de jeu à son essence, la propreté du système, la possibilité d'une concentration presque totale, 
 la vitesse des évènements". (p. 54)
-
-<!--more-->
 
 Une expérience *fluide*. S'assoir devant la borne d'arcade est comme rejoindre une extension de la main et du cerveau,  sans toutes les rugosités intermédiaires.
 
