@@ -4,3 +4,4 @@
 
 layout: home
 ---
+{{ post.excerpt | strip_html | truncatewords:75 }}
