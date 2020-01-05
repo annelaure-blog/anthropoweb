@@ -43,12 +43,12 @@ Baricco considère que la "vertèbre 0" de l'ère numérique est le *Space Invad
 
 Sur ces prémisses se construit **"l'âge classique", de 1981 à 1998** soit du Commodore 64 à Google, où se mettent en place les fondations du "Game" : 
 - 1981 - 1984 : l'invention du "P" de PC, soit le fait qu'un ordinateur peut désormais être "personnel" et entrer dans la sphère domestique individuelle,
-- 1990 - 1991 : l'invention du Web (protocole TCP/IP et hyperliens) par Tim Berners-Lee (et quelques autres que l'Histoire retiendra moins), 
+- 1990 - 1991 : **l'invention du Web** (protocole TCP/IP et hyperliens) par Tim Berners-Lee (et quelques autres que l'Histoire retiendra moins), 
 - 1993 : l'invention du MP3 et du premier navigateur web *Mosaic*,
-- 1995 : lancement de *Windows 95* par Microsoft,
-- 1998 : la naissance de *Google* que l'on doit à Sergey Brin & Larry Page.
+- 1995 : lancement de **Windows 95** par Microsoft,
+- 1998 : la naissance de **Google** que l'on doit à Sergey Brin & Larry Page.
 
-Il est suivi de *"la colonisation", de 1999 à 2007*, où tout prend de l'ampleur :
+Il est suivi de **"la colonisation", de 1999 à 2007**, où tout prend de l'ampleur :
 - 2001 : naissance de Wikipedia
 
 >"Formidable exemple de deuxième monde construit quotidiennement par les utilisateurs, en sautant pas mal de médiations et en éliminant de façon spectaculaire les élites traditionnelles.
@@ -56,14 +56,14 @@ Il est suivi de *"la colonisation", de 1999 à 2007*, où tout prend de l'ampleu
 intentionnés n'obtiendront jamais, en se concentrant sur l'entrée 'France', plus de précisions que l'on peut en avoir en laissant à toutes les personnes libres qui vivent sur cette planète
 la possibilité d'intervenir." (p. 142 - 143)
 
-- 2002 : naissance de LinkedIn, premier concept de réseau social.
-- 2003 - 2016 : commercialisation du Black Berry et première expérience du PC que l'on mets dans la poche et que l'on emporte partout avec soi, en tous temps.
+- 2002 : naissance de **LinkedIn**, premier concept de réseau social.
+- 2003 - 2016 : commercialisation du **Black Berry** et première expérience du PC que l'on mets dans la poche et que l'on emporte partout avec soi, en tous temps.
 - 2004 : lancement de Facebook. L'éditeur Tim O'Reilly invente l'expression du **web 2.0**, celui où l'utilisateur ne se contente plus de surfer et de consulter des contenus statiques, mais où il
 interagit, publie, commente, nourrit le Web.
-- 2005 : naissance de Youtube
-- 2006 : naissance de Twitter
+- 2005 : naissance de **Youtube**
+- 2006 : naissance de **Twitter**
 - 2007 : Amazon lance le Kindle, qui ne détruira pas le livre papier comme on le craignait tant,
-- Et enfin 2007 : le lancement de l'Iphone par Apple, le smartphone qui révolutionne les interactions humains-clavier(tactile)-machine en rendant des processus complexes
+- Et enfin 2007 : le **lancement de l'Iphone par Apple**, le smartphone qui révolutionne les interactions humains-clavier(tactile)-machine en rendant des processus complexes
 d'un point de vue technologique excessivement simples d'utilisation.
 
 >"(...) avec des instruments comme ceux-là, l'insurrection numérique frappait en plein coeur la culture du XXeme siècle, désintégrant son principe fondamental : l'idée que le noyau de l'expérience
@@ -71,15 +71,15 @@ d'un point de vue technologique excessivement simples d'utilisation.
 Elle ne l'a pas détruit, elle ne l'a pas annulé ni banalisé, (...) : elle l'a libéré à la surface du monde."(p. 180)
 
 Le paysage de l'ère numérique est désormais peuplé de grandes chaînes montagneuses, ayant "brisé la croûte terrestre de nos habitudes mentales" dit Baricco.
-Mais l'histoire ne s'arrête pas là, elle fonce et accélère, même, vers la phase du "game" : 2008 - 2016, là ou achève de se fabriquer "le monde dans lequel nous vivons".
+Mais l'histoire ne s'arrête pas là, elle fonce et accélère, même, vers **la phase du "game" : 2008 - 2016**, là ou achève de se fabriquer "le monde dans lequel nous vivons".
 
-- 2008 : naissance de Spotify (start-up suédoise et non américaine comme tant d'autres)
-- 2008 : ouverture aux ventes des applications sur l'Iphone. En 4 jours, 10 millions d'applications sont téléchargées. C'est l'entrée dans *l'ère des "applis"*.
-- 2009 : naissance de Whatsapp, d'inventeurs "deuxième génération", employés de Yahoo! et utilisateurs d'iphones. (Whatsapp a été vendu à Facebook en 2014 pour 19 milliards de dollars)
-- 2010 : naissance d'Instagram
+- 2008 : naissance de **Spotify** (start-up suédoise et non américaine comme tant d'autres)
+- 2008 : **ouverture aux ventes des applications sur l'Iphone**. En 4 jours, 10 millions d'applications sont téléchargées. C'est l'entrée dans *l'ère des "applis"*.
+- 2009 : naissance de **Whatsapp**, d'inventeurs "deuxième génération", employés de Yahoo! et utilisateurs d'iphones. (Whatsapp a été vendu à Facebook en 2014 pour 19 milliards de dollars)
+- 2010 : naissance **d'Instagram**
 - 2011 : l'année où les utilisations des applis dépassent l'utilisation traditionnelle du web.
-- 2012 : fin du système analogique de transmission de la télévision en Italie et partout dans le monde (sauf en Corée du Nord où la télévision numérique n'accède pas)
-- 2016 : victoire d'AlphaGo face au champion mondial du jeu de go, perçu comme le triomphe de l'Intelligence Artificielle qui se diffuse dans toutes les sphères du "game".
+- 2012 : **fin du système analogique de transmission de la télévision** en Italie et partout dans le monde (sauf en Corée du Nord où la télévision numérique n'accède pas)
+- 2016 : victoire d'AlphaGo face au champion mondial du jeu de go, perçu comme le triomphe de **l'Intelligence Artificielle** qui se diffuse dans toutes les sphères du "game".
 
 
 >"Le Game n'a pas de constitution écrite. Il n'y a pas de "textes" qui le légitiment, le règlent ou le fondent. Cependant, il en existe certains 
@@ -103,6 +103,7 @@ Faudra-t-il revenir aux outils d'avant pour court-circuiter le "game", du moins 
 
 
 *"The game", Alessandro Baricco, Gallimard, 2018, 374 p.*
+(/alf_blog/_posts/images/thegame.jpg)
 
 
 
