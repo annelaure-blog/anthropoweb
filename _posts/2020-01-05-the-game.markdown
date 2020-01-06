@@ -6,13 +6,12 @@ categories: blog_post
 author : Anne-Laure
 ---
 
-En lisant "The Game" d'Alessandro Baricco, le première idée qui frappe est celle de *fluidité* et de *monde liquide* comme expériences fondatrices de l'ère numérique. 
+En lisant "The Game" d'Alessandro Baricco, la première idée qui frappe est celle de *fluidité* et de *monde liquide* comme expériences fondatrices de l'ère numérique. 
 
-Le premier exemple donné date de 1978 avec la création du jeu vidéo. 
+Tout commence en 1978 avec la création du jeu vidéo *Space Invader*. 
 
 Là où, de l'expérience physique du *baby-foot* (une expérience rugueuse, impliquant les secousses ressenties
-dans les mains, les sons de la balle qui frappe contre les joueurs, le toucher de la barre), puis du *flipper* (séparé du joueur par une vitre, jeu individuel, encore très matériel et sonore), 
-arrive *space invader* où le joueur se tient immobile, les doigts sur les boutons, face à l'écran sans vibration, sans odeur.
+dans les mains, les sons de la balle frappée, le toucher de la barre), puis du *flipper* (séparé du joueur par une vitre, mais toujours fait de tintements et de chocs physiques), arrive *space invader* où le joueur se tient immobile, les doigts sur les boutons, face à l'écran sans vibration, sans odeur, sans obstacle.
 
 >"Et maintenant, mettez-vous à jouer et essayez de sentir la soudaine absence de frottement, la douceur de la surface de jeu, la légèreté du geste, le flux presque
 liquide des ordres et des décisions, la réduction de toute situation de jeu à son essence, la propreté du système, la possibilité d'une concentration presque totale, 
