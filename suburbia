@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Suburbia</title>
+</head>
+
+<body>
+    <!---Page content-->
+    </br>
+    <div id="page">
+
+        <!--About section with some text about the project-->
+
+        <h2 id="up">"Objects of Suburbia"</h2>
+        <i>(December 2019)</i></br></br>
+        <p>
+            This "moving photography" experimental project was meant to show objects left behind by commuters during the day in the suburbs and rural areas, close to where I live.
+            I wanted to illustrate both materiality of those objects left behind, and "the absence of city" that make those particular landscapes.
+        </p>
+        <p>
+            Video have been compressed using Handbrake to limit the weight of this website.
+            </br>
+        </p>
+
+
+        <!--videos displayed with links-->
+        <p>
+            <div id="videocentre">
+                <a href="https://www.openstreetmap.org/way/379162010">
+                    <video src="/lowtech/medias/001.m4V" autoplay loop muted width="400"></video>
+                </a>
+                <a href="https://www.openstreetmap.org/way/112301860">
+                    <video src="/lowtech/medias/002.m4V" autoplay loop muted width="400"></video>
+                </a>
+                <a href="https://www.openstreetmap.org/way/112292352">
+                    <video src="/lowtech/medias/003.m4V" autoplay loop muted width="400"></video>
+                </a>
+                <a href="https://www.openstreetmap.org/node/257908835">
+                    <video src="/lowtech/medias/004.m4V" autoplay loop muted width="500"></video>
+                </a>
+                <a href="https://www.openstreetmap.org/way/150922397">
+                    <video src="/lowtech/medias/005.m4V" autoplay loop muted width="500"></video>
+                </a>
+                <a href="https://www.openstreetmap.org/way/112036261">
+                    <video src="/lowtech/medias/007.m4V" autoplay loop muted width="500"></video>
+                </a>
+                <a href="https://www.openstreetmap.org/way/38748797">
+                    <video src="/lowtech/medias/008.m4V" autoplay loop muted width="500"></video>
+                </a>
+                <a href="https://www.openstreetmap.org/way/234164653#map=16/48.7845/2.6507">
+                    <video src="/lowtech/medias/011.m4V" autoplay loop muted width="500"></video>
+                </a>
+                <a href="https://www.openstreetmap.org/way/175753701#map=16/48.7393/2.6266">
+                    <video src="/lowtech/medias/010.m4V" autoplay loop muted width="500"></video>
+                </a>
+                <a href="https://www.openstreetmap.org/way/112304657">
+                    <video src="/lowtech/medias/012.m4V" autoplay loop muted width="500"></video>
+                </a>
+
+            </div>
+            </hr>
+
+        </p>
+
+        <b><a href="#up">UP</a></b>
+        <hr />
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+    </div>
+
+
+</body>
+</html>
