@@ -1,6 +1,6 @@
 ---
 layout : page
-title : Projets photographiques
+title : Projets photos
 ---
 
 Photographe amateur, je travaille régulièrement sur des séries photographiques et des projets de "photographies animées" (de courtes vidéos en plan fixe) regroupées par thème ou par message. L'essentiel des sujets que j'aborde sont liés à l'évolution de la ville, aux paysages et à la géographie.
