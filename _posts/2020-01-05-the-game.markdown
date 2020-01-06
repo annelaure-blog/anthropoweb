@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "L'histoire fascinante de l'insurrection numérique : Lecture de The Game, d'Alessandro Baricco"
+title:  "L'histoire de l'insurrection numérique : Lecture de The Game, d'Alessandro Baricco"
 date:   2020-01-05 20:47:47 +0100
 categories: blog_post
 author : Anne-Laure
