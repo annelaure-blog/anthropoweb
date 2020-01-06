@@ -12,11 +12,15 @@ Extrait d'une série sur les "villages-centres" qui résistent encore et toujour
 ![maison](/anthropoweb/images/maison.jpg)
 
 
+
+
 ### Objets Périurbains
 
 Extrait d'une série de "photographie animées" associées à des objets géoréférencés sur OpenStreetMap. Cette série est une perspective sur la matérialité des objets "loin de la ville", au sein de territoires vidés de leurs habitants du Lundi au Vendredi, de 8H à 19H. Comme un portrait en négatif de la ville et de notre humanité moderne, des lieux où nous ne sommes pas.
 
 ![abriOSM](/anthropoweb/images/abri.jpg)
+
+
 
 
 ### Les couleurs du Roundup
