@@ -4,6 +4,7 @@ title:  "L'histoire de l'insurrection numérique : Lecture de The Game, d'Alessa
 date:   2020-01-05 20:47:47 +0100
 categories: blog_post
 author : Anne-Laure
+excerpt_separator: "<!--more-->"
 ---
 
 En lisant "The Game" d'Alessandro Baricco, la première idée qui frappe est celle de *fluidité* et de *monde liquide* comme expériences fondatrices de l'ère numérique. 
