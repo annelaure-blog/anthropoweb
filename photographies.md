@@ -3,13 +3,13 @@ layout : page
 title : Projets photos
 ---
 
-Photographe amateur, je travaille régulièrement sur des séries photographiques et des projets de "photographies animées" (de courtes vidéos en plan fixe) regroupées par thème ou par message. L'essentiel des sujets que j'aborde sont liés à l'évolution de la ville, aux paysages et à la géographie.
+Photographe amateure, j'ai gardé mes habitudes de géographe et de chercheuse en études urbaines. J'ai pour habitude de réaliser des petites séries photographiques, comme des **"carnets de terrain"** pour observer différentes caractéristiques du paysage, de l'habitat, de l'architecture ou de l'urbanisme.  
 
 
 
-### Villages de banlieue
+### Les villages donuts
 
-Extrait d'une série sur les "villages-centres" qui résistent encore et toujours à la périurbanisation et à l'étalement urbain en Ile-de-France, mais sur lesquels la pression foncière s'exerce de plus en plus, même en zone rurale. La série vise à souligner le constraste entre nouvelles constructions qui se multiplient en bordure de champs avec les bâtiments de vieille pierre et les routes au tracé séculaire, témoins d'une autre géographie, d'un autre mode d'habiter le temps.
+Extrait d'une série sur les "villages-centres" encerclés par l'étalement périurbain. Le coeur du village fait figure de musée historique avec quelques pierres anciennes (église, maisons, corps de ferme) alors que ses marges sont de grands étalements de lotissements flambants neufs.
 
 ![maison](/anthropoweb/images/maison.jpg)  
   
@@ -29,7 +29,7 @@ Extrait d'une série de "photographie animées" associées à des objets géoré
 
 ### Les couleurs du Roundup
 
-L'utilisation de désherbants chimiques est encore fréquente dans les grandes cultures. Les parcelles sont aspergées puis laissées ainsi plusieurs semaines en attendant la saison du labour et des semis des prochaines cultures. Une rotation lente et immuable qui s'observe sur le temps long, créant des paysages orangés-rouges à la couleur caractéristique.
+L'utilisation de désherbants chimiques est encore fréquente dans les grandes cultures. Les parcelles sont aspergées puis laissées ainsi plusieurs mois en attendant les prochains semis. Une rotation qui s'observe sur le temps long, créant des paysages orangés-rouges à la couleur caractéristique et indicatrice de pollution des sols, des eaux et de destruction de la diversité végétale sauvage.
 
 ![lacouleurduroundup](/anthropoweb/images/roundup1.jpg)  
 
