@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cartographier les cycles géo-chimiques de l'anthropocène : au-delà de latitude - longitude"
+title:  "Cartographier la "zone critique" dans l'anthropocène : au-delà de latitude - longitude"
 date:   2020-01-09 20:47:47 +0100
 categories: blog_post
 author : Anne-Laure
