@@ -7,7 +7,7 @@ author : Anne-Laure
 excerpt_separator: "<!--more-->"
 ---
 
-## Repenser les coordonnées de surface
+## Sortir de la Terre-Sphère
 
 Dans un article publié en 2018 dans l'Anthropocene Review, trois auteurs (Bruno Latour, sociologue et philosophe des sciences,
 enseignant à Sciences Po et fondateur du Medialab, en collaboration avec Alexandra Arenes, architecte et chercheuse en architecture, et Jérôme Gaillardet, chercheur et professeur à l'Institut de Physique du Globe de Paris) explorent de nouvelles
@@ -16,8 +16,12 @@ dure et la limite de l'atmosphère où se situe l'ensemble du vivant.
 
 L'article a pour titre ["Giving Depth to the Surface –an Exercise in the Gaia-graphy of Critical Zones"](http://www.bruno-latour.fr/sites/default/files/155-GAIAGRAPHY-accepted.pdf). 
 
-Depuis quelques années les recherches sur l'anthropocène et la zone critique émergent comme autant de mesures et de coups de sondes dans la couche "habitée" de la Terre, qui ne représente qu'une mince couche habituellement peu visible dans les représentations traditionnelles. Or les représentations classiques : la Terre-sphère, quadrillée de méridiens et de parallèles, et celle de la carte, qui projette ce quadrillage sur une surface plane (avec les déformations que l'on connaît), ne permettent pas de rentrer dans la "profondeur" du sol et de la zone critique. 
+Depuis quelques années les recherches sur **l'anthropocène et la zone critique** émergent comme autant de mesures et de coups de sondes dans la couche "habitée" de la Terre. L'avenir du vivant n'est pas contenu dans une sphère mais dans une fraction de celle-ci, une sphère "évidée" au volume très restreint, et où les bouleversements géo-chimiques demeurent après avoir été générés (CO2, méthane, nitrites...). Or les représentations classiques, soit la Terre-sphère, quadrillée de méridiens et de parallèles, et celle de la carte, qui projette ce quadrillage sur une surface plane (avec les déformations que l'on connaît), ne permettent pas de vraiment **rendre compte de la forme de la zone critique** et d'en décrire les **évènements géo-chimiques**.
 
-Aux enjeux de la navigation de surface terrestre (la géo-graphie : écrire la Terre) qui préoccupaient les explorateurs il y a quatre ou cinq siècles, succède aujourd'hui le besoin de **sonder la zone critique**, de la représenter comme un système fermé sujet à des cycles géo-physico-chimiques plus ou moins longs et impactants. C'est la **gaia-graphie** : soit l'exercice d'écrire Gaia.
+Aux enjeux de la navigation de surface terrestre (la géo-graphie : écrire la Terre) qui préoccupaient les explorateurs il y a quatre ou cinq siècles, succède aujourd'hui le besoin de **représenter cette zone critique** comme un système fermé sujet à des cycles géo-physico-chimiques plus ou moins longs et impactants. C'est la **gaia-graphie** : soit l'exercice d'écrire Gaia.
 
-L'exercice est une **anamorphose**, une expérience de changement de perspective, par trois regards croisés : celui d'une architecte paysagiste, d'un historien des sciences et d'un géochimiste. C'est une transformation, un passage de la **grille** (où les points sont des sites, déterminés par une latitude et une longitude) à une vision évènementielle et cyclique de ce qui affecte la **zone critique** et non la seule surface du monde.
+L'exercice est une **anamorphose**, une expérience de changement de perspective, par trois regards croisés : celui d'une architecte paysagiste, d'un historien des sciences et d'un géochimiste. C'est une transformation, un passage de la **grille** (où les points sont des sites, fixes dans l'espace, déterminés par une latitude et une longitude) à une **vision évènementielle et cyclique de ce qui affecte la zone critique** et non la seule surface du monde.
+
+En d'autres termes, il s'agit de **cartographier la géo-chimie de la zone habitable de la planète**.
+
+## Cycles et évènements géo-chimiques
