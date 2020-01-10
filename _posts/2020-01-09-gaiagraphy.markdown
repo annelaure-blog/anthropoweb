@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cartographier la zone critique, au-delà de latitude - longitude"
+title:  "Cartographier la zone critique : réinventer les manière de représentater la Terre"
 date:   2020-01-09 08:00:00
 categories: blog_post
 future: true
