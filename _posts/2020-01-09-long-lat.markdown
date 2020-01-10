@@ -8,6 +8,8 @@ published: false
 excerpt_separator: "<!--more-->"
 ---
 
+![terre-sphere](/sphere.png)
+
 ## Sortir de la Terre-Sphère
 
 Dans un article publié en 2018 dans l'Anthropocene Review, trois auteurs (Bruno Latour, sociologue et philosophe des sciences,
