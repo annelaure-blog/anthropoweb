@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cartographier la "zone critique" dans l'anthropocène : au-delà de latitude - longitude"
-date:   2020-01-10 20:47:47 +0100
+date:   2020-01-10 08:00:00
 categories: blog_post
 author : Anne-Laure
 ---
