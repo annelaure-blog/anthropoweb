@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cartographier la zone critique : réinventer les manière de représentater la Terre"
+title:  "Cartographier la zone critique : réinventer les manière de représenter la Terre"
 date:   2020-01-09 08:00:00
 categories: blog_post
 future: true
@@ -24,19 +24,16 @@ Aux enjeux de la navigation de surface terrestre (la géo-graphie : écrire la T
 L'exercice est une **anamorphose**, une expérience de changement de perspective, par trois regards croisés : celui d'une architecte paysagiste, d'un historien des sciences et d'un géochimiste. C'est une transformation, un passage de la **grille** (où les points sont des sites, fixes dans l'espace, déterminés par une latitude et une longitude) à une **vision évènementielle et cyclique de ce qui affecte la zone critique** et non la seule surface du monde.
 
 En d'autres termes, il s'agit de **cartographier la géo-chimie de la zone habitable de la planète**.  
-</br>
-</br>
+
 ## Inverser les couches
-</br>
-</br>
+
 La gaiagraphie se propose **d'inverser les couches traditionnellement ordonnées** comme suit : le noyau, au centre de la Terre, puis le manteau, puis la croute terrestre, puis les sols, puis l'atmosphère. Elle place la basse atmosphère au centre, la mettant ainsi en contact direct avec les sols et l'encapsulant à l'intérieur d'un système-terre, au lieu de la représenter comme au contact du vide spatial infini. Autour d'elle on trouve les sols, directement au contact, pour mieux attirer l'attention sur l'importance cruciale des interactions sols-atmopshère. Puis en allant vers l'extérieur de la section viennent les saprolites (transition entre la roche mère et la roche dégradée de surface), la croûte continentale, et le manteau qui apparaît comme s'il englobait la Terre.
 
 **Une révolution du regard semblable à la Révolution Copernicienne.** La Terre se résume, pour la vie, d'une zone critique et de cycles fermés dans cette zone. En ce sens, l'espace occupé par le manteau et le noyau terrestre sont de peu d'utilité au sein des représentations de l'anthropocène.
 
->"This  is  why  (...)  we  propose  to  solve  the  problem  of  the disappearing soil surface by reversing the order of strata and placing the earthcore as well as the mantle at the peripheryof the projection. We now have all the room available to scale up any of the various layers making up the CZ, thus following what is called in projective geometry an anamorphosis, a   projection that maintains relations intact but modifies the relative scale so as to outline specific phenomena (Baltrusaitis, 1984). Thanks to this anamorphosis the layers that are really critical for life on earthare now fully visible instead of being squashed as in the other representation. The superficial now becomes central." (Arène, Latour, Gaillardet, 2018, p 8,9).
-</br>
-</br>
+>"This  is  why  (...)  we  propose  to  solve  the  problem  of  the disappearing soil surface by reversing the order of strata and placing the earthcore as well as the mantle at the peripheryof the projection. We now have all the room available to scale up any of the various layers making up the CZ, thus following what is called in projective geometry an anamorphosis, a   projection that maintains relations intact but modifies the relative scale so as to outline specific phenomena (Baltrusaitis, 1984). Thanks to this anamorphosis the layers that are really critical for life on earthare now fully visible instead of being squashed as in the other representation. The superficial now becomes central." (Arène, Latour, Gaillardet, 2018, p 8,9).  
+
+
 ## Visualiser les cycles 
-</br>
-</br>
+
 
