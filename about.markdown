@@ -6,6 +6,8 @@ permalink: /about/
 
 **A propos**
 
+![alf]({{"/assets/alf.jpg"|absolute_url}})
+
 Mon nom est Anne-Laure Fréant et **Anthropoweb** est un blog que j'ai créé en 2020 pour partager mes lectures et recherches sur les cultures numériques, la donnée, la recherche et l'innovation en lien avec l'anthropocène. J'aime aussi [la photo](/anthropoweb/photographies.html).
 
 J'ai rejoint depuis peu **Etalab**, le service du Premier Ministre en charge de l'ouverture des données, en tant que **data editor**, après trois ans en tant que data editor pour la startup Hopper au Canada, suivi de trois ans d'entreprenariat social en France et de consulting pour le SGMAP et le Ministère des Affaires Etrangères.
