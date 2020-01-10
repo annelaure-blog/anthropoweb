@@ -30,7 +30,7 @@ La gaiagraphie se propose **d'inverser les couches traditionnellement ordonnées
 
 **Une révolution du regard semblable à la Révolution Copernicienne.** La Terre se résume, pour la vie, d'une zone critique et de cycles fermés dans cette zone. En ce sens, l'espace occupé par le manteau et le noyau terrestre sont de peu d'utilité au sein des représentations de l'anthropocène.
 
-![gaia_geography_cycles](/assets/gaiagraphy.png)
+![gaia_geography_cycles]({{"/assets/gaiagraphy.png"|absolute_url}})
 
 >"This  is  why  (...)  we  propose  to  solve  the  problem  of  the disappearing soil surface by reversing the order of strata and placing the earthcore as well as the mantle at the peripheryof the projection. We now have all the room available to scale up any of the various layers making up the CZ, thus following what is called in projective geometry an anamorphosis, a   projection that maintains relations intact but modifies the relative scale so as to outline specific phenomena (Baltrusaitis, 1984). Thanks to this anamorphosis the layers that are really critical for life on earthare now fully visible instead of being squashed as in the other representation. The superficial now becomes central." (Arène, Latour, Gaillardet, 2018, p. 8-9).  
 
@@ -44,7 +44,7 @@ L'épaisseur du trait est relative à la **quantification du cycle** (giga tonne
 
 > "(...) we are  not  looking for the  position  of  a place but for the signature of an event. Such a signature is defined as the way it creates a spiral" (Arène, Latour, Gaillardet, 2018, fig.5, p. 18).
 
-![gaia_cycles]({{"/assets/gaia_cycle.jpg"|absolute_url}}))
+![gaia_cycles]({{"/assets/gaia_cycle.jpg"|absolute_url}})
 
 > "No matter how useful thelocalization of events in space has been, Critical Zone scientists would agree that howyou position an event in geochemical cycles has more relevance to understanding the earth’s dynamics" (Arène, Latour, Gaillardet, 2018, p. 20).
 
