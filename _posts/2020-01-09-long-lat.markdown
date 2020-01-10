@@ -8,7 +8,7 @@ published: false
 excerpt_separator: "<!--more-->"
 ---
 
-![terre-sphere](/sphere.png)
+![terre-sphere](/anthropoweb/_posts/sphere.png)
 
 ## Sortir de la Terre-Sphère
 
