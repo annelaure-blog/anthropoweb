@@ -44,7 +44,7 @@ L'épaisseur du trait est relative à la **quantification du cycle** (giga tonne
 
 > "(...) we are  not  looking for the  position  of  a place but for the signature of an event. Such a signature is defined as the way it creates a spiral" (Arène, Latour, Gaillardet, 2018, fig.5, p. 18).
 
-![gaia_cycles](/assets/gaia_cycle.jpg)
+![gaia_cycles]({{"/assets/gaia_cycle.jpg"|absolute_url}}))
 
 > "No matter how useful thelocalization of events in space has been, Critical Zone scientists would agree that howyou position an event in geochemical cycles has more relevance to understanding the earth’s dynamics" (Arène, Latour, Gaillardet, 2018, p. 20).
 
