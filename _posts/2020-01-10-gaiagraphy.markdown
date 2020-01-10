@@ -4,7 +4,6 @@ title:  "Cartographier la "zone critique" dans l'anthropocène : au-delà de lat
 date:   2020-01-10 20:47:47 +0100
 categories: blog_post
 author : Anne-Laure
-excerpt_separator: "<!--more-->"
 ---
 
 
@@ -18,8 +17,6 @@ dure et la limite de l'atmosphère où se situe l'ensemble du vivant.
 L'article a pour titre ["Giving Depth to the Surface –an Exercise in the Gaia-graphy of Critical Zones"](http://www.bruno-latour.fr/sites/default/files/155-GAIAGRAPHY-accepted.pdf). 
 
 Depuis quelques années les recherches sur **l'anthropocène et la zone critique** émergent comme autant de mesures et de coups de sondes dans la couche "habitée" de la Terre. L'avenir du vivant n'est pas contenu dans une sphère mais dans une fraction de celle-ci, une sphère "évidée" au volume très restreint, et où les bouleversements géo-chimiques demeurent après avoir été générés (CO2, méthane, nitrites...). Or les représentations classiques, soit la Terre-sphère, quadrillée de méridiens et de parallèles, et celle de la carte, qui projette ce quadrillage sur une surface plane (avec les déformations que l'on connaît), ne permettent pas de vraiment **rendre compte de la forme de la zone critique** et d'en décrire les **évènements géo-chimiques**.
-
-<!--more-->
 
 Aux enjeux de la navigation de surface terrestre (la géo-graphie : écrire la Terre) qui préoccupaient les explorateurs il y a quatre ou cinq siècles, succède aujourd'hui le besoin de **représenter cette zone critique** comme un système fermé sujet à des cycles géo-physico-chimiques plus ou moins longs et impactants. C'est la **gaia-graphie** : soit l'exercice d'écrire Gaia.
 
