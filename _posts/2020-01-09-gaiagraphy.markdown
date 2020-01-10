@@ -44,6 +44,14 @@ L'épaisseur du trait est relative à la **quantification du cycle** (giga tonne
 
 ![gaia_cycles](/https://annelaure-blog.github.io/anthropoweb/_posts/gaia_cycle.jpg)
 
-> "No matter how useful thelocalization of events in space has been, CZ scientists would agree that howyou position an event in geochemical cycles has more relevance to understanding the earth’s dynamics" (Arène, Latour, Gaillardet, 2018, p. 20).
+> "No matter how useful thelocalization of events in space has been, Critical Zone scientists would agree that howyou position an event in geochemical cycles has more relevance to understanding the earth’s dynamics" (Arène, Latour, Gaillardet, 2018, p. 20).
 
+L'objectif n'est pas de représenter la totalité de la Terre ni l'ensemble des processus simultanés qui s'y déroulent. Il est de pouvoir représenter **l'hétérogénéité de la Terre** et d'obtenir des **cartographies précises par cycles spécifiques**. A chaque changement du lieu d'observation du cycle, la représentation associée en sera modifiée.
+
+>"The anamorphosis we propose represents only the relevant cycles as they occur at a specific site—ideally a CZ observatory. So, everytime you change the initial position, the distribution of cycles visible in such a place will provide a different picture, each site having its own unique signature. This is an essential goal of our alternative representation: to be able to picture the heterogeneity of the earth." (Arène, Latour, Gaillardet, 2018, fig.5, p. 22).
+
+
+*Une démarche de recherche artistique et scientifique offrant des perspectives vertigineuses pour mesurer, représenter et repenser notre rapport à la Terre, en recentrant le regard sur la géo-chimie de ses processus et sur l'aspect cyclique des éléments déplacés, extractés ou transformés par l'Homme.*
+
+*2017. “Giving Depth to the Surface – an exercise in the Gaia-graphy of Critical Zones" (paper by Alexandra Arènes, Bruno Latour & Jérôme Gaillardet) in The Anthropocene Review, http://journals.sagepub.com/doi/10.1177/2053019618782257*
 
