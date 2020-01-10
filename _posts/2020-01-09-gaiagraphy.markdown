@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cartographier la "zone critique" dans l'anthropocène, au-delà de latitude - longitude"
+title:  "Cartographier la zone critique, au-delà de latitude - longitude"
 date:   2020-01-09 08:00:00
 categories: blog_post
 future: true
