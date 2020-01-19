@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Les data-objets : des matrices de Bertin aux sculptures de Loren Madsen"
-date:   2020-01-09 08:00:00
+date:   2020-01-19 08:00:00
 categories: blog_post
 future: true
 author : Anne-Laure
