@@ -34,22 +34,31 @@ Preuve de l'intérêt que suscite aujourd'hui la question de la grammaire graphi
 
 ![Exemple de matrice de Bertin]({{"/assets/matrice.jpg"|absolute_url}})
 
-Le chercheur en *computer science* Mathieu le Goc, qui s'intéresse aux **interactions tangibles** et aux **interfaces physiques**, a recréé une version contemporaine des dominos de Bertin via l'équipement d'un Fablab : [https://www.mathieulegoc.me/diy-bertin](https://www.mathieulegoc.me/diy-bertin). 
+Le chercheur en *computer science* Mathieu le Goc, qui s'intéresse aux **interactions tangibles** et aux **interfaces physiques**, a recréé une version contemporaine des dominos de Bertin via l'équipement d'un Fablab : [https://www.mathieulegoc.me/diy-bertin](https://www.mathieulegoc.me/diy-bertin).   
 
-La profusion technologique contemporaine n'a donc pas éludé la réflexion sur la grammaire graphique ou le design d'interactions entre le lecteur de la donnée et celui ou celle qui la représente. Les mêmes questions éthiques et idéologiques se posent quant à ce qu'on donne à voir, à qui, comment et pourquoi. Sur ces questions les artistes apportent des perspectives qui viennent enrichir la réflexion sur la représentation visuelle de l'information.
+La profusion technologique contemporaine n'a donc pas éludé la réflexion sur la grammaire graphique ou le design d'interactions entre le lecteur de la donnée et celui ou celle qui la représente. Les mêmes questions éthiques et idéologiques se posent quant à ce qu'on donne à voir, à qui, comment et pourquoi. Sur ces questions les artistes bouleversent les perspectives de la recherche traditionnelle en jouant sur un autre registre de perception et de lecture visuelle.  
 
 
 ## Les data-sculptures : une approche artistique de la donnée
 
-L'artiste Loren Madsen est une pionnière du "data art" qu'elle pratique depuis les années 1970 et jusqu'à ce jour. Centrées sur des thèmes de société, basées sur des statistiques officielles, ses oeuvres mettent en volume et en objet des données sur la criminalité, la population humaine ou encore le terrorisme.
+L'artiste Loren Madsen est une pionnière du "data art" qu'il pratique depuis les années 1970. Centrées sur des thèmes de société, basées sur des statistiques officielles, ses oeuvres mettent en volume et en objet des données sur la criminalité, la population humaine ou encore le terrorisme.
 
 ![Data Art sur la population humaine de Loren Madsen]({{"/assets/loren_data.jpg"|absolute_url}})
 
-L'oeuvre *"6 000 000 000 of Monkeys"* (ci-dessus) de 1999 représente l'évolution de la population humaine depuis 10 000 avant JC jusqu'en l'an 2000. La représentation en trois dimensions d'un cône métallique ne répond à aucune grammaire graphique traditionnelle, mais permet aisément par sa forme spectaculaire de saisir l'information présentée très rapidement : "la moitié des Sapiens ayant existé sur la Terre sont en vie aujourd'hui".
+L'oeuvre *"6 000 000 000 of Monkeys"* (ci-dessus) de 1999 représente l'évolution de la population humaine depuis 10 000 avant JC jusqu'en l'an 2000. La représentation en trois dimensions d'un cône métallique permet aisément, par sa forme spectaculaire mais simple, de saisir l'information représentée : "la moitié des Sapiens ayant existé sont en vie aujourd'hui".
 
 ![Data Art sur le terrorisme par Loren Madsen]({{"/assets/loren_terror.jpg"|absolute_url}})
 
-L'oeuvre ci-dessus exploite les données de la *Global Terrorism Database* et les retranscrit dans une installation nommée "Worry Beads" ("les perles de l'inquiétude") où chaque perle représente le nombre de morts dû à des attentats terroristes entre 1945 et 2017 (à l'échelle mondiale pour les grosses sphères, à l'échelle des Etats-Unis pour les plus petites). La différence d'échelle spectaculaire entre ces deux séries de données donne à relativiser face au risque terroriste aux Etats-Unis.
+L'oeuvre ci-dessus exploite les données de la *Global Terrorism Database* et les retranscrit dans une installation nommée "Worry Beads" ("les perles de l'inquiétude") où chaque perle représente le nombre de morts dû à des attentats terroristes entre 1945 et 2017 (à l'échelle mondiale pour le long chapelet de grosses sphères, à l'échelle des Etats-Unis le court chapelet de petites perles). La différence d'échelle spectaculaire entre ces deux séries de données mets immédiatement en lumière la relative faiblesse du risque terroriste aux USA par rapport à d'autres régions du monde.
+
+Deux chercheurs, Pierre Dragicevic de l'INRIA (aussi derrière le Bertifier) et Yvonne Jansen (CNRS, ISIR – Institut des Systèmes Intelligents et de Robotique) ont compilé une liste de "Data physical Visualizations" où l'on trouve plus de **350 data objects**. A retrouver sur : [http://dataphys.org/list/](http://dataphys.org/list/).   
+
+
+Des propositions qui font **relativiser la toute puissance de l'informatique dans la visualisation de la donnée** : si aujourd'hui tout semble vouloir nous emmener vers une montée en compétence (sans doute utopique) de tout citoyen en data scientist, la **data literacy** demeure autant une affaire de raisonnement et de connaissance de règles fondamentales simples qui ont été inventées il y a plus de cinquante ans.
+
+En s'appuyant sur les règles fondamentales de *la graphique* et en privilégiant toujours la clarté et la simplicité du message (la fonction détermine la forme), chacun pourra s'emparer du medium de son choix pour imaginer des représentations tant *lowtech* qu'efficaces.  
+
+
 
 
 *Sources*
