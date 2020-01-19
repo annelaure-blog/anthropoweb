@@ -41,7 +41,7 @@ La profusion technologique contemporaine n'a donc pas éludé la réflexion sur 
 
 ## Les data-sculptures : une approche artistique de la donnée
 
-L'artiste Loren Madsen est une pionnière du "data art" qu'il pratique depuis les années 1970. Centrées sur des thèmes de société, basées sur des statistiques officielles, ses oeuvres mettent en volume et en objet des données sur la criminalité, la population humaine ou encore le terrorisme.
+L'artiste Loren Madsen est un pionnier du "data art" qu'il pratique depuis les années 1970. Centrées sur des thèmes de société, basées sur des statistiques officielles, ses oeuvres mettent en volume et en objet des données sur la criminalité, la population humaine ou encore le terrorisme.
 
 ![Data Art sur la population humaine de Loren Madsen]({{"/assets/loren_data.jpg"|absolute_url}})
 
