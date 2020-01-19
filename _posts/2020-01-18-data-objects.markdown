@@ -21,7 +21,6 @@ Cette réflexion sur la construction d'une **grammaire graphique** est plus que 
 
 La **grammaire graphique** est aujourd'hui encore un **language visuel à l'intersection de la linguistique, du design, de la programmation informatique, de la statistique, de l'art, de la pédagogie, de la communication, des médias et des sciences** en perpétuelle évolution. Bertin disait qu'un choix était à faire entre *"voir ou lire"*(Gimeno, 2018) : il était pour lui nécessaire d'uniformiser la sémiologie graphique afin de rendre les images simples et donc rapide à comprendre, plutôt que de privilégier l'esthétique au détriment de la donnée représentée. Une approche qui se heurte aujourd'hui à la multiplication des outils technologiques permettant à tous de créer des visualisations sans posséder nécessairement le savoir cartographique et sémiologique nécessaire.
 
-Le travail de réajustement de la *dataviz* se fait 
 
 ## Les data-objets : du prototype à l'oeuvre d'art
 
@@ -31,19 +30,22 @@ Le travail de réajustement de la *dataviz* se fait
 
 >"La méthode proposée par Bertin était d’ordre scientifique : on se posait des questions, on formulait des hypothèses, on délimitait un domaine de recherche et des objets d’étude. On disposait d’un **outil visuel et manuel, la matrice permutable**, qui permettait d’effectuer un traitement, de découvrir des classes d’objets, d’obtenir des typologies et donc de construire des concepts. Et l’outil même constituait un support excellent pour interpréter les résultats et construire un discours ou un texte. Cet apprentissage de la rigueur fonctionnait depuis le CP et à tous les niveaux. Pour répondre à votre remarque, avec l’appui de chercheurs, les enseignants n’avaient aucune difficulté à s’approprier la méthode. Mais, laissés seuls, des problèmes se présentaient pour amener les enfants à construire eux-mêmes les connaissances." (Gimeno, 2018)
 
-Des chercheurs de l'INRIA ont reproduit une version web des matrices de Bertin et construit le "Bertifier" (Perin et al, 2014), application web qui permet de reproduire le raisonnement développé par Bertin en créant ses propres matrices : https://aviz.fr/bertifier_app/ . On y apprend assez intuitivement le principe de classement par similarité visuelle des variables.
+Des chercheurs de l'INRIA ont reproduit une version web des matrices de Bertin et construit le "Bertifier" (Perin et al, 2014), application web qui permet de reproduire le raisonnement développé par Bertin en créant ses propres matrices : [https://aviz.fr/bertifier_app/](https://aviz.fr/bertifier_app/). On y apprend assez intuitivement le principe de classement par similarité visuelle des variables.
 
-Le chercheur en *computer science* Mathieu le Goc, qui s'intéresse aux **interactions tangibles** et aux **interfaces physiques**, a recréé une version contemporaine des dominos via l'équipement d'un Fablab : https://www.mathieulegoc.me/diy-bertin . 
+Le chercheur en *computer science* Mathieu le Goc, qui s'intéresse aux **interactions tangibles** et aux **interfaces physiques**, a recréé une version contemporaine des dominos via l'équipement d'un Fablab : [https://www.mathieulegoc.me/diy-bertin](https://www.mathieulegoc.me/diy-bertin). 
 
 ## Les data-sculptures : une approche artistique de la donnée
+
+
 
 
 *Sources*
 
 BEGUIN, M. & PUMAIN, D.(2000). "La représentation des données géographiques, statistique et cartographie", Armand Colin, Cursus Géographie, 189p.  
-BERTIN J.(1973), "Sémiologie graphique. Les diagrammes, les réseaux, les cartes", Paris/La Haye, Mouton, Paris, Gauthier-Villars.  
-BERTIN J.(1977), "La graphique et le traitement graphique de l’information", Paris, Flammarion.   
-GIMENO, R. (2018), "Voir ou lire", interview BACK OFFICE (revue), *Penser, classer, représenter*, no 2, http://www.revue-backoffice.com/numeros/02-penser-classer-representer/entretien-gimeno-buellet-renon-voir-lire      
-PALSKY, G. (2015), "Jacques Bertin", *Hypergeo*, http://www.hypergeo.eu/spip.php?article630  
-PERIN, C. & Al. (2014), "Revisiting Bertin Matricies : New Interactions for Crafting Tabular Visualisations", *IEEE Transactions on Visualization and Computer Graphics*, Vol 20, no 12, p.2082-2091.https://aviz.fr/wiki/uploads/Bertifier/bertifier-authorversion.pdf  
+BERTIN J.(1973). "Sémiologie graphique. Les diagrammes, les réseaux, les cartes", Paris/La Haye, Mouton, Paris, Gauthier-Villars.  
+BERTIN J.(1977). "La graphique et le traitement graphique de l’information", Paris, Flammarion.   
+GIMENO, R. (2018), "Voir ou lire", interview BACK OFFICE (revue), *Penser, classer, représenter*, no 2, [http://www.revue-backoffice.com/numeros/02-penser-classer-representer/entretien-gimeno-buellet-renon-voir-lire](http://www.revue-backoffice.com/numeros/02-penser-classer-representer/entretien-gimeno-buellet-renon-voir-lire)      
+PALSKY, G. (2015). "Jacques Bertin", *Hypergeo*, [http://www.hypergeo.eu/spip.php?article630](http://www.hypergeo.eu/spip.php?article630)  
+PALSKY, G. (2017). "La Sémiologie graphique de Jacques Bertin a cinquante ans !", Visioncarto, [https://visionscarto.net/la-semiologie-graphique-a-50-ans](https://visionscarto.net/la-semiologie-graphique-a-50-ans)  
+PERIN, C. & Al. (2014). "Revisiting Bertin Matricies : New Interactions for Crafting Tabular Visualisations", *IEEE Transactions on Visualization and Computer Graphics*, Vol 20, no 12, p.2082-2091, [https://aviz.fr/wiki/uploads/Bertifier/bertifier-authorversion.pdf](https://aviz.fr/wiki/uploads/Bertifier/bertifier-authorversion.pdf)  
 WICKHAM, H. (2010). "A Layered Grammar of Graphics", *American Statistical Association, Institute of Mathematical Statistics and Interface Foundation of North America, Journal of Computational and Graphical Statistics*, Vol. 19, no 1, p. 3-28.  
