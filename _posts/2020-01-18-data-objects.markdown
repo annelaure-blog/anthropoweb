@@ -51,12 +51,13 @@ L'oeuvre *"6 000 000 000 of Monkeys"* (ci-dessus) de 1999 représente l'évoluti
 
 L'oeuvre ci-dessus exploite les données de la *Global Terrorism Database* et les retranscrit dans une installation nommée "Worry Beads" ("les perles de l'inquiétude") où chaque perle représente le nombre de morts dû à des attentats terroristes entre 1945 et 2017 (à l'échelle mondiale pour le long chapelet de grosses sphères, à l'échelle des Etats-Unis le court chapelet de petites perles). La différence d'échelle spectaculaire entre ces deux séries de données mets immédiatement en lumière la relative faiblesse du risque terroriste aux USA par rapport à d'autres régions du monde.
 
-Deux chercheurs, Pierre Dragicevic de l'INRIA (aussi derrière le Bertifier) et Yvonne Jansen (CNRS, ISIR – Institut des Systèmes Intelligents et de Robotique) ont compilé une liste de "Data physical Visualizations" où l'on trouve plus de **350 data objects**. A retrouver sur : [http://dataphys.org/list/](http://dataphys.org/list/).   
+Deux chercheurs, Pierre Dragicevic de l'INRIA (aussi derrière le Bertifier) et Yvonne Jansen (CNRS, ISIR – Institut des Systèmes Intelligents et de Robotique) ont compilé une liste de "Data physical Visualizations" où l'on trouve plus de **350 data objects**. Une source d'inspiration de premier ordre à retrouver sur : [http://dataphys.org/list/](http://dataphys.org/list/).  
 
+## Pour un art de la visualisation "lowtech"
 
-Des propositions qui font **relativiser la toute puissance de l'informatique dans la visualisation de la donnée** : si aujourd'hui tout semble vouloir nous emmener vers une montée en compétence (sans doute utopique) de tout citoyen en data scientist, la **data literacy** demeure autant une affaire de raisonnement et de connaissance de règles fondamentales simples qui ont été inventées il y a plus de cinquante ans.
+Autant de propositions passées en revue dans ce court article qui font **relativiser la toute puissance de l'informatique dans la visualisation de la donnée** : si aujourd'hui tout semble vouloir nous emmener vers une montée en compétence (sans doute utopique) de tout citoyen en data scientist accompli, je continue de croire que la **data literacy** est avant tout une affaire de **raisonnement et de connaissance de règles fondamentales simples qui ont été inventées il y a plus de cinquante ans**.  
 
-En s'appuyant sur les règles fondamentales de *la graphique* et en privilégiant toujours la clarté et la simplicité du message (la fonction détermine la forme), chacun pourra s'emparer du medium de son choix pour imaginer des représentations tant *lowtech* qu'efficaces.  
+En s'appuyant sur les règles fondamentales de *la graphique* et en privilégiant toujours la clarté et la simplicité du message (la fonction détermine la forme), chacun pourra s'emparer du medium de son choix pour imaginer des représentations tant *lowtech* qu'efficaces. A mon sens nous avons plus besoin de pratiques diversifiées autour de la donnée que d'une uniformisation de ses modes de traitement, d'analyse et de visualisation. 
 
 
 
