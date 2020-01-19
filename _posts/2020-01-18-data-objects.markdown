@@ -19,4 +19,15 @@ Cette réflexion sur la construction d'une **grammaire graphique** est plus que 
 
 La **grammaire graphique** est aujourd'hui encore, et peut-être plus qu'à son invention, un **language visuel à l'intersection de la linguistique, du design, de la programmation informatique, de la statistique, de l'art, du journalisme, de la pédagogie, de la communication, des médias et des sciences.**
 
-## 
+## Les data-objets : du prototype à l'oeuvre d'art
+
+Les matrices de 
+
+
+*Sources*
+
+BEGUIN, M. & PUMAIN, D.(2000). "La représentation des données géographiques, statistique et cartographie", Armand Colin, Cursus Géographie, 189p.
+BERTIN J.(1973), "Sémiologie graphique. Les diagrammes, les réseaux, les cartes", Paris/La Haye, Mouton, Paris, Gauthier-Villars.
+BERTIN J.(1977), "La graphique et le traitement graphique de l’information", Paris, Flammarion. 
+BACK OFFICE (revue), (2018), "Penser, classer, représenter", no 2, 142 p.
+WICKHAM, H. (2010). "A Layered Grammar of Graphics", *American Statistical Association, Institute of Mathematical Statistics and Interface Foundation of North America, Journal of Computational and Graphical Statistics*, Vol. 19, no 1, p. 3-28.
