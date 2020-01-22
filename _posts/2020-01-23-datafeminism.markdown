@@ -3,7 +3,7 @@ layout: post
 title:  "Data Feminism"
 date:   2020-01-23 08:00:00
 categories: blog_post
-published : FALSE
+published : false
 author : Anne-Laure
 ---
 
