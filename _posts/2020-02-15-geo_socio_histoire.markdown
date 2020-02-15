@@ -60,7 +60,7 @@ Il paraît alors essentiel **d'inventer une forme d'écriture et d'analyse de so
 
 ![Schéma conceptuel de la géo-socio-analyse]({{"/assets/geo_socio_histoire.png"|absolute_url}})
 
-Bourdieu se [serait défendu d'écrire une autobiographie](http://didiereribon.blogspot.com/2008/01/bourdieu-et-lesquisse-pour-une-auto.html) quand il travaillait sur son "esquisse de socio-analyse". Le but du jeu de cette écriture, qui aurait eu pour origine un malentendu entre un éditeur allemand et l'auteur, était d'appliquer les principes analytiques de *l'habitus* à son propre inventeur, par lui-même. La même réflexion entoure le travail de Didier Eribon dans **"Retour à Reims"**, lorsqu'il se replonge dans l'histoire de sa famille et de son milieu d'origine pour en situer les mécanismes inégalitaires et sociaux, pour en "objectiver le corps social".
+Bourdieu se [serait défendu d'écrire une autobiographie](http://didiereribon.blogspot.com/2008/01/bourdieu-et-lesquisse-pour-une-auto.html) quand il travaillait sur son "esquisse d'auto-analyse". Le but du jeu de cette écriture, qui aurait eu pour origine un malentendu entre un éditeur allemand et l'auteur, était d'appliquer les principes analytiques de *l'habitus* à son propre inventeur, par lui-même. La même réflexion entoure le travail de Didier Eribon dans **"Retour à Reims"**, lorsqu'il se replonge dans l'histoire de sa famille et de son milieu d'origine pour en situer les mécanismes inégalitaires et sociaux, pour en "objectiver le corps social".
 
 Benoît Ladouceur, professeur de sciences économiques et sociales, écrit à propos de "Retour à Reims" :
 
@@ -111,7 +111,11 @@ A. Ernaux, *La Place*, Gallimard, 1983.
 
 D. Eribon, *Retour à Reims*, Fayard, 2009.
 
-B.Ladouceur, « Didier Eribon, Retour à Reims », Lectures [En ligne], Les comptes rendus, 2010, mis en ligne le 11 janvier 2010, consulté le 15 février 2020. URL : http://journals.openedition.org/lectures/898
+D. Eribon, *Sur Bourdieu et l'Esquisse pour une auto-analyse*, mis en ligne en 2008, consulté le 15 février 2020. URL : http://didiereribon.blogspot.com/2008/01/bourdieu-et-lesquisse-pour-une-auto.html
+
+S. Hansel, *Noël en Février*, Rue Fromentin, 2015.
+
+B.Ladouceur, *Didier Eribon, Retour à Reims*, Lectures [En ligne], Les comptes rendus, 2010, mis en ligne le 11 janvier 2010, consulté le 15 février 2020. URL : http://journals.openedition.org/lectures/898
 
 
 
