@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Intégrer la Terre à l'auto-analyse : vers une auto-géo-socio-analyse"
+date:   2020-02-15 08:00:00
+categories: blog_post
+future: true
+published: false
+author : Anne-Laure
+---
+## Une démarche exploratoire 
+
+L'idée a germé plusieurs mois après avoir commencé à travailler sur un roman auto-biographique. Inspirée par l'écriture
+d'Annie Erneaux dans "La place" et habitée depuis de longues années d'une envie d'écrire sur la trajectoire sociale de ma
+famille, faute de ne la voir relater nulle part ailleurs, j'ai tenté tantôt de romancer, tantôt de relater, sans jamais rien 
+obtenir. 
+
+Les éléments analytiques arrivaient trop tôt et se mettaient en travers du récit comme un commentateur envahissant, ou bien le 
+récit que j'essayais d'animer en recréant des scènes au présent semblait factice. Son écriture ne me procurait pas le profond 
+sentiment d'ancrage et de profondeur habituellement expérimenté lorsque je sens que "j'écris juste".
+
+Plus tard je lisais le roman de Sylvia Hansel "Noël en Février". Une version contemporaine, drôle et frontale de ce que grandir
+en banlieue rurale dans les années 1990 et 2000 veut dire. Plus amusant à lire que "L'esquisse pour une auto-analyse" de Bourdieu,
+même si l'exercice de l'auto-socio-analyse ne peut être évoqué sans citer cet ouvrage.
+
+
+Dans l'ouvrage de Sylvia Hansel, beaucoup de points communs avec mon adolescence seine-et-marnaise, exclue
+de la grande ville et de tout ce qui s'y passe, mais en ce qui me concerne, riche de liberté dans ce que j'appelle "les grands 
+espaces vides" où se retrouve la jeunesse (les parkings, les orées de forêts, les abords de chantiers désertés la nuit) pour y 
+boire, y fumer, y discuter, y danser, y écouter de la musique ou y faire des courses sauvages de voitures. J'ai aussi été inspirée
+par l'absence totale de honte (qui serait une marque bourgoise, sans doute) de l'auteure. Elle n'y dramatise rien, on sent que l'expérience
+relatée n'a pu être que vécue et que ce n'est pas le fruit d'un récit fantasmé "par en haut".
+
+J'ai vu aussi dans ce roman la nuance, j'ai pu me situer un peu mieux, car même si j'ai une famille d'origines modestes 
+(agricole pour l'essentielle), mes parents ont effectué un saut vers les classes moyennes supérieures : ils ne votent pas FN,
+ils ne sont ni violents ni alcooliques, se cultivent et s'instruisent par leurs propres moyens, n'ont pas peur de s'approprier 
+la technique et les portes qu'elle ouvre en ce qui concerne mon père (informatique, électronique, astronomie, etc.), la marche 
+solitaire et les grandes romans d'exploration en ce qui concerne ma mère (entre autre), et ont des loisirs qui pourraient 
+ressembler à ceux d'une classe urbaine aisée (randonnées, ski, etc.). J'ai été moins livrée à moi-même que l'héroïne de "Noël en Février" et moins
+tentée par les addictions en tous genre qui m'entouraient pourtant et avec lesquelles j'ai cohabité de longues années durant, jusqu'à
+partir pour l'étranger et à rompre la majorité de mes attaches seine-et-marnaises. La plupart s'étaient de toutes façons dissolues
+après le passage du BAC et le départ des uns et des autres à Paris ou dans d'autres villes universitaires.
+
+Cette expérience du départ et du décentrement socio-culturel m'a profondément remaniée. Je reste persuadée qu'aujourd'hui, si 
+le récit individuel et la psychothérapie restent nécessaires, il devrait aussi exister des socio-thérapies. Des thérapies de classes.
+Soigner la peur du déclassement, soigner l'obligation morale de conformisme social, soigner l'amour conditionné par l'accomplissement
+d'une trajectoire sociale conforme ou non conforme à des attentes... de classe. La plupart des familles ont des maux individuels
+qui peuvent, pour certains, trouver remède dans l'inscription d'elles-mêmes dans des ensembles plus vastes, dans des grands
+mouvements de fond qui animent les époques et leurs sociétés et qui ne relèvent pas de culpabilités ou de responsabilités
+personnelles. Il n'est pas nouveau de dire que chaque groupe social a ses maux, ou plutôt que les maux frappent les groupes et 
+les personnes en fonction de critères sociaux. 
+
+L'auto-socio-analyse m'a beaucoup aidé personnellement. C'est une mise en récit comme une autre, une prolongation du récit familial
+ou du moins son inscription dans un "grand tout", une mise en relation avec les histoires de toutes les autres familles qui sont plus 
+liées qu'on ne le pense. C'est comprendre le contexte dans lequel les parents et les grands-parents ont évolué, pourquoi
+ils ont pris les décisions qu'ils ont pris, et quelles trajectoires socio-historiques ils fabriquaient alors, relativement
+à au contexte de l'époque.
+
+Poursuivant sur cette idée, je me suis aperçue que dans mon histoire il y avait aussi d'autres composantes importantes laissées de côté
+par la socio-analyse : des territoires, des géologies, une "géo-chimie" : des géo-histoires. Je me suis alors demandée comment cela pouvait
+entrer dans l'auto-socio-analyse, pour la relier au sol, la "faire atterir" selon l'expression développée par Bruno Latour.
+L'évolution de la Terre, toujours dissociée de celle des humains en cela qu'elle évoluerai sur des temps très longs ("les temps géologiques")
+est aujourd'hui confondue avec le temps humain, puisque l'humain façonne la Terre à des rythmes qui lui sont propres et qui sont
+devenus prioritaires sur les temps du biologique et du géologique. 
+
+Il paraît alors essentiel d'inventer une forme d'écriture et d'analyse de soi capable de s'inscrire dans ce nouvel environnement
+et de prendre en compte la géo-histoire comme on prend en compte l'histoire dite collective. Les humains de l'anthropocène ne se situeraient plus dans une histoire qui ne serait "que" sociale, mais aussi dans une histoire
+de la Terre.
+
+## De la socio à la géo-analyse
+
+Je ne pouvais relater mon
+
+
+
