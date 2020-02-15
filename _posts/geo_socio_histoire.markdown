@@ -38,12 +38,13 @@ solitaire et les grandes romans d'exploration en ce qui concerne ma mère (entre
 ressembler à ceux d'une classe urbaine aisée (randonnées, ski, etc.). J'ai été moins livrée à moi-même que l'héroïne de "Noël en Février" et moins
 tentée par les addictions en tous genre qui m'entouraient pourtant et avec lesquelles j'ai cohabité de longues années durant, jusqu'à
 partir pour l'étranger et à rompre la majorité de mes attaches seine-et-marnaises. La plupart s'étaient de toutes façons dissolues
-après le passage du BAC et le départ des uns et des autres à Paris ou dans d'autres villes universitaires.
+après le passage du BAC et le départ des uns et des autres à Paris ou dans d'autres villes universitaires. Seuls sont restés les 
+copains des classes moins favorisées (première génération d'immigrés, enfants issus des classes ouvrières françaises) qui ont fait leurs vies sur place et ont trouvé dans le groupe, la bande, un repère solide pour avancer, certains vers de grands accomplissements sportifs qui les emmenèrent autour du monde, les autres travaillant dans des collèges, des garages, des cantines d'école par exemple.
 
 Cette expérience du départ et du décentrement socio-culturel m'a profondément remaniée. Je reste persuadée qu'aujourd'hui, si 
 le récit individuel et la psychothérapie restent nécessaires, il devrait aussi exister des socio-thérapies. Des thérapies de classes.
 Soigner la peur du déclassement, soigner l'obligation morale de conformisme social, soigner l'amour conditionné par l'accomplissement
-d'une trajectoire sociale conforme ou non conforme à des attentes... de classe. La plupart des familles ont des maux individuels
+d'une trajectoire sociale conforme ou non conforme à des attentes... de classe. Ne serait-ce que prendre connaissance des "habitus" de classe et des particularités du transfuge de classe ou "transclasse" peut aider à mieux se comprendre. La plupart des familles ont des maux individuels
 qui peuvent, pour certains, trouver remède dans l'inscription d'elles-mêmes dans des ensembles plus vastes, dans des grands
 mouvements de fond qui animent les époques et leurs sociétés et qui ne relèvent pas de culpabilités ou de responsabilités
 personnelles. Il n'est pas nouveau de dire que chaque groupe social a ses maux, ou plutôt que les maux frappent les groupes et 
@@ -63,8 +64,8 @@ est aujourd'hui confondue avec le temps humain, puisque l'humain façonne la Ter
 devenus prioritaires sur les temps du biologique et du géologique. 
 
 Il paraît alors essentiel d'inventer une forme d'écriture et d'analyse de soi capable de s'inscrire dans ce nouvel environnement
-et de prendre en compte la géo-histoire comme on prend en compte l'histoire dite collective. Les humains de l'anthropocène ne se situeraient plus dans une histoire qui ne serait "que" sociale, mais aussi dans une histoire
-de la Terre.
+et de prendre en compte la géo-histoire comme on prend en compte l'histoire dite collective. Les humains de l'anthropocène ne se situeraient plus dans une histoire qui ne serait "que" individuelle ou sociale, mais aussi dans une histoire
+de la Terre qui serait à la fois biologique et géologique.
 
 ## De la socio à la géo-analyse
 
