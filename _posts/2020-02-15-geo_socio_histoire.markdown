@@ -53,14 +53,29 @@ au contexte de l'époque. C'est s'inscrire non pas comme centre de son monde, ma
 
 Poursuivant sur cette idée, je me suis aperçue - sans doute guidée par mes instincts de géographe - que dans mon histoire il y avait aussi d'autres composantes importantes laissées de côté par la socio-analyse : ce sont les éléments terrestres. Une "géo-chimie", une géo-physique, une géologie, un "état de la matière et du vivant autour de soi" : des géo-histoires. Je me suis alors demandée comment cela pouvait entrer dans l'auto-socio-analyse, pour la relier au sol, la "faire atterir" selon l'expression développée par Bruno Latour.
 
-L'évolution de la Terre, toujours dissociée de celle des humains en cela qu'elle évoluerai sur des temps très longs ("les temps géologiques") est aujourd'hui confondue avec le temps humain, puisque l'humain façonne la Terre à des rythmes qui lui sont propres et qui sont devenus prioritaires sur les temps du biologique et du géologique. Les humains déplacent avec leurs bulldozers plus de matière que l'érosion de tous les fleuves du monde, sur des temps autrement plus courts, avec les conséquences que l'on sait sur les écosystèmes, le vivant végétal et animal.
+L'évolution de la Terre, toujours dissociée de celle des humains en cela qu'elle évoluerai sur des temps très longs ("les temps géologiques") est aujourd'hui confondue avec le temps humain, puisque l'humain façonne la Terre à des rythmes qui lui sont propres et qui sont devenus dominants des temps du biologique et du géologique. Les humains déplacent avec leurs bulldozers plus de matière que l'érosion de tous les fleuves du monde, sur des temps autrement plus courts, avec les conséquences que l'on sait sur les écosystèmes, le vivant végétal et animal et la perturbation des grands équilibres géo-chimiques de la Terre.
 
-Il paraît alors essentiel d'inventer une forme d'écriture et d'analyse de soi capable de s'inscrire dans ce nouvel environnement
-et de prendre en compte la géo-histoire comme il est aujourd'hui universellement admis qu'on prend en compte l'histoire dite collective. Les humains de l'anthropocène ne se situeraient plus dans une histoire qui ne serait "que" individuelle ou sociale, mais aussi dans une histoire de la Terre qui serait à la fois biologique et géologique. Cette situation inédite appelle à une urgente réintroduction de la Terre dans la conception occidentale du récit de soi. 
+Il paraît alors essentiel **d'inventer une forme d'écriture et d'analyse de soi capable de s'inscrire dans ce nouvel environnement
+et de prendre en compte la géo-histoire comme il est aujourd'hui universellement admis qu'on prend en compte l'histoire dite collective, qu'un bon récit est capable d'aller "de l'intime à l'universel"**. Les humains de l'anthropocène ne se situeraient plus dans une histoire qui ne serait "que" individuelle et sociale, mais aussi dans une histoire de la Terre qui serait à la fois biologique et géologique. **Cette situation inédite appelle à une urgente réintroduction de la Terre dans la conception occidentale du récit de soi.**
 
 ## Conceptualiser la géo-socio-analyse
 
-Je ne pouvais relater mon
+![Schéma conceptuel de la géo-socio-analyse]({{"/assets/geo_socio_histoire.png"|absolute_url}})
+
+Bourdieu se [serait défendu d'écrire une autobiographie](http://didiereribon.blogspot.com/2008/01/bourdieu-et-lesquisse-pour-une-auto.html) quand il travaillait sur son "esquisse de socio-analyse". Le but du jeu de cette écriture, qui aurait eu pour origine un malentendu entre un éditeur allemand et l'auteur, était d'appliquer les principes analytiques de l'habitus à son propre inventeur, par lui-même. La même réflexion entoure le travail de Didier Eribon dans "Retour à Reims", lorsqu'il se replonge dans l'histoire de sa famille et de son milieu d'origine pour en situer les composantes inégalitaires et sociales.
+
+Benoît Ladouceur, professeur de sciences économiques et sociales, écrit à propos de "Retour à Reims" :
+
+>"Peut-on appliquer la connaissance sociologique à son cas personnel, à sa trajectoire sociale ? On peut être tenté de le faire, d'autant qu'on a connu une mobilité sociale qui nous a mis au contact de milieux différents. Bourdieu souhaitait que son travail permette aux dominés d'avoir conscience des mécanismes sociaux les maintenant dans leur condition. Ainsi, il définissait la socioanalyse comme un moyen d'avoir conscience, et donc d'avoir prise sur ses propres déterminations. Il n'existe cependant pas de sociologue proposant ses services pour effectuer un tel travail. Les socioanalyses sont finalement plus le fait de sociologues auto-analysant leur trajectoire sociale. Ce genre d'exercice est rarissime, l'introspection n'étant pas une méthode de recherche en sociologie, son objectivité n'étant pas assurée." (Ladouceur, 2010)
+
+On voit que la première étape de l'idée que j'avais eue, qui consiste à faire de la "socio-thérapie" ou de la socio-analyse dans l'intention de **permettre la prise de conscience par les dominés (et les autres) des mécanismes sociaux qui les ont menés et les maintiennent là où ils sont** n'est pas nouvelle. Elle ne trouve pourtant pas vraiment d'applications concrètes en matière de soin, et relativement peu d'applications dans les récits de soi, qu'ils soient littéraires ou non. 
+
+En ce qui concerne la dimension géo-
+
+________________________
+Sources :
+
+Benoît Ladouceur, « Didier Eribon, Retour à Reims », Lectures [En ligne], Les comptes rendus, 2010, mis en ligne le 11 janvier 2010, consulté le 15 février 2020. URL : http://journals.openedition.org/lectures/898
 
 
 
