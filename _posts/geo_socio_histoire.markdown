@@ -41,33 +41,24 @@ partir pour l'étranger et à rompre la majorité de mes attaches seine-et-marna
 après le passage du BAC et le départ des uns et des autres à Paris ou dans d'autres villes universitaires. Seuls sont restés les 
 copains des classes moins favorisées (première génération d'immigrés, enfants issus des classes ouvrières françaises) qui ont fait leurs vies sur place et ont trouvé dans le groupe, la bande, un repère solide pour avancer, certains vers de grands accomplissements sportifs qui les emmenèrent autour du monde, les autres travaillant dans des collèges, des garages, des cantines d'école par exemple.
 
-Cette expérience du départ et du décentrement socio-culturel m'a profondément remaniée. Je reste persuadée qu'aujourd'hui, si 
-le récit individuel et la psychothérapie restent nécessaires, il devrait aussi exister des socio-thérapies. Des thérapies de classes.
-Soigner la peur du déclassement, soigner l'obligation morale de conformisme social, soigner l'amour conditionné par l'accomplissement
-d'une trajectoire sociale conforme ou non conforme à des attentes... de classe. Ne serait-ce que prendre connaissance des "habitus" de classe et des particularités du transfuge de classe ou "transclasse" peut aider à mieux se comprendre. La plupart des familles ont des maux individuels
-qui peuvent, pour certains, trouver remède dans l'inscription d'elles-mêmes dans des ensembles plus vastes, dans des grands
-mouvements de fond qui animent les époques et leurs sociétés et qui ne relèvent pas de culpabilités ou de responsabilités
-personnelles. Il n'est pas nouveau de dire que chaque groupe social a ses maux, ou plutôt que les maux frappent les groupes et 
-les personnes en fonction de critères sociaux. 
+>Cette expérience du départ au Canada et du décentrement socio-culturel associé m'a profondément remaniée. Je suis persuadée qu'aujourd'hui, si le récit individuel et la psychothérapie restent nécessaires, il devrait aussi exister des socio-thérapies. Des thérapies de classes.
+
+Soigner la peur du déclassement, soigner l'obligation morale de conformisme social, le sentiment d'échec, d'exclusion, soigner la honte, soigner aussi la toute puissance illusoire de ceux et celles qui pensent être arrivés seul.es sur le toit du monde, soigner la pression sociale à réussir ou à tenir "la place" si bien évoquée par Annie Erneaux. Soigner les transclasses ou transfuges de classe en tenant compte de leur situation sociale particulière. Il n'est pas nouveau de dire que chaque groupe social a ses maux, ou plutôt que les maux frappent les groupes et les personnes en fonction de critères sociaux. Pourtant le soin se fait toujours individuellement, comme si toutes les "psychés" étaient lisses et uniformes, explicables par des lois universelles excluant toute situation sociale, toute position relative dans une société. A commencer par le format du soin lui-même. 
 
 L'auto-socio-analyse m'a beaucoup aidé personnellement. C'est une mise en récit comme une autre, une prolongation du récit familial
 ou du moins son inscription dans un "grand tout", une mise en relation avec les histoires de toutes les autres familles qui sont plus 
 liées qu'on ne le pense. C'est comprendre le contexte dans lequel les parents et les grands-parents ont évolué, pourquoi
 ils ont pris les décisions qu'ils ont pris, et quelles trajectoires socio-historiques ils fabriquaient alors, relativement
-à au contexte de l'époque.
+au contexte de l'époque. C'est s'inscrire non pas comme centre de son monde, mais se replacer dans un monde complexe, habité par d'autres que soi.
 
-Poursuivant sur cette idée, je me suis aperçue que dans mon histoire il y avait aussi d'autres composantes importantes laissées de côté
-par la socio-analyse : des territoires, des géologies, une "géo-chimie" : des géo-histoires. Je me suis alors demandée comment cela pouvait
-entrer dans l'auto-socio-analyse, pour la relier au sol, la "faire atterir" selon l'expression développée par Bruno Latour.
-L'évolution de la Terre, toujours dissociée de celle des humains en cela qu'elle évoluerai sur des temps très longs ("les temps géologiques")
-est aujourd'hui confondue avec le temps humain, puisque l'humain façonne la Terre à des rythmes qui lui sont propres et qui sont
-devenus prioritaires sur les temps du biologique et du géologique. 
+Poursuivant sur cette idée, je me suis aperçue - sans doute guidée par mes instincts de géographe - que dans mon histoire il y avait aussi d'autres composantes importantes laissées de côté par la socio-analyse : ce sont les éléments terrestres. Une "géo-chimie", une géo-physique, une géologie, un "état de la matière et du vivant autour de soi" : des géo-histoires. Je me suis alors demandée comment cela pouvait entrer dans l'auto-socio-analyse, pour la relier au sol, la "faire atterir" selon l'expression développée par Bruno Latour.
+
+L'évolution de la Terre, toujours dissociée de celle des humains en cela qu'elle évoluerai sur des temps très longs ("les temps géologiques") est aujourd'hui confondue avec le temps humain, puisque l'humain façonne la Terre à des rythmes qui lui sont propres et qui sont devenus prioritaires sur les temps du biologique et du géologique. Les humains déplacent avec leurs bulldozers plus de matière que l'érosion de tous les fleuves du monde, sur des temps autrement plus courts, avec les conséquences que l'on sait sur les écosystèmes, le vivant végétal et animal.
 
 Il paraît alors essentiel d'inventer une forme d'écriture et d'analyse de soi capable de s'inscrire dans ce nouvel environnement
-et de prendre en compte la géo-histoire comme on prend en compte l'histoire dite collective. Les humains de l'anthropocène ne se situeraient plus dans une histoire qui ne serait "que" individuelle ou sociale, mais aussi dans une histoire
-de la Terre qui serait à la fois biologique et géologique.
+et de prendre en compte la géo-histoire comme il est aujourd'hui universellement admis qu'on prend en compte l'histoire dite collective. Les humains de l'anthropocène ne se situeraient plus dans une histoire qui ne serait "que" individuelle ou sociale, mais aussi dans une histoire de la Terre qui serait à la fois biologique et géologique. Cette situation inédite appelle à une urgente réintroduction de la Terre dans la conception occidentale du récit de soi. 
 
-## De la socio à la géo-analyse
+## Conceptualiser la géo-socio-analyse
 
 Je ne pouvais relater mon
 
