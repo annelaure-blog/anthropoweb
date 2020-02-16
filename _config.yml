@@ -21,7 +21,7 @@
 title: Anthropoweb
 email: denise.andrea@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Le blog d'Anne-Laure Fréant : Cultures numériques, données, sciences humaines et anthropocène.
+  Le blog d'Anne-Laure Fréant : Géographie, numérique, données, études urbaines et anthropocène.
 baseurl: "/anthropoweb" # the subpath of your site, e.g. /blog
 url: "http://annelaure-blog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pickmeupAL
