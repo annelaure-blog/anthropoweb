@@ -5,12 +5,16 @@ date:   2020-02-15 08:00:00
 categories: blog_post
 future: true
 author : Anne-Laure
+excerpt_separator: <!--more-->
+
 ---
 ## Une démarche exploratoire 
 
 L'idée a germé plusieurs mois après avoir commencé à travailler sur un roman auto-biographique. Inspirée par l'écriture
 d'Annie Ernaux dans "La place" et habitée depuis de longues années d'une envie d'écrire sur la trajectoire sociale de ma
 famille, faute de ne la voir relater nulle part ailleurs, j'ai tenté de m'atteler à la tâche. 
+
+<!--more-->
 
 Cette écriture était guidée par une volonté d'analyse et de chercheuse en sciences sociales, mais aussi par une quête personnelle de compréhension et d'objectivation de ma propre trajectoire en vue d'un certain soulagement. Ce positionnement ambigü, entre besoin intellectuel et besoin thérapeutique, n'est pas à mon sens si antinomique qu'on le traite habituellement, avec cette répulsion du chercheur en sciences sociales face aux choses dites "non ojectivables". J'étais animée, précisément, par la volonté d'assembler les deux, et de le faire en l'assumant tout à fait, voire en le revendiquant. La voie littéraire était sans doute la meilleure option pour me lancer dans cet exercice expérimental.
 
