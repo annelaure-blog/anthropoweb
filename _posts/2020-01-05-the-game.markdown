@@ -4,17 +4,18 @@ title:  "L'histoire de l'insurrection numérique : Lecture de The Game, d'Alessa
 date:   2020-01-05 20:47:47 +0100
 categories: blog_post
 author : Anne-Laure
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 ---
 
 En lisant "The Game" d'Alessandro Baricco, la première idée qui frappe est celle de *fluidité* et de *monde liquide* comme expériences fondatrices de l'ère numérique. 
 
 Tout commence en 1978 avec la création du jeu vidéo *Space Invader*. 
 
+<!--more-->
+
 Là où, de l'expérience physique du *baby-foot* (une expérience rugueuse, impliquant les secousses ressenties
 dans les mains, les sons de la balle frappée, le toucher de la barre), puis du *flipper* (séparé du joueur par une vitre, mais toujours fait de tintements et de chocs physiques), arrive *space invader* où le joueur se tient immobile, les doigts sur les boutons, face à l'écran sans vibration, sans odeur, sans obstacle.
 
-<!--more-->
 
 >"Et maintenant, mettez-vous à jouer et essayez de sentir la soudaine absence de frottement, la douceur de la surface de jeu, la légèreté du geste, le flux presque
 liquide des ordres et des décisions, la réduction de toute situation de jeu à son essence, la propreté du système, la possibilité d'une concentration presque totale, 
