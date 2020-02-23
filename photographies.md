@@ -11,7 +11,7 @@ Photographe amateure, j'ai gardé mes habitudes de géographe et de chercheuse e
 
 Extrait d'une série sur les "villages-centres" encerclés par l'étalement périurbain. Le coeur du village fait figure de musée historique avec quelques pierres anciennes (église, maisons, corps de ferme) alors que ses marges sont de grands étalements de lotissements flambants neufs.
 
-![maison](/anthropoweb/images/maison.jpg)  
+![maison](/chora/images/maison.jpg)  
   
   
 
@@ -21,7 +21,7 @@ Extrait d'une série sur les "villages-centres" encerclés par l'étalement pér
 
 Extrait d'une série de "photographie animées" associées à des objets géoréférencés sur OpenStreetMap. Cette série est une perspective sur la matérialité des objets "loin de la ville", au sein de territoires vidés de leurs habitants du Lundi au Vendredi, de 8H à 19H. Comme un portrait en négatif de la ville et de notre humanité moderne, des lieux où nous ne sommes pas.
 
-![abriOSM](/anthropoweb/images/abri.jpg)  
+![abriOSM](/chora/images/abri.jpg)  
   
   
 
@@ -31,6 +31,6 @@ Extrait d'une série de "photographie animées" associées à des objets géoré
 
 L'utilisation de désherbants chimiques est encore fréquente dans les grandes cultures. Les parcelles sont aspergées puis laissées ainsi plusieurs mois en attendant les prochains semis. Une rotation qui s'observe sur le temps long, créant des paysages orangés-rouges à la couleur caractéristique et indicatrice de pollution des sols, des eaux et de destruction de la diversité végétale sauvage.
 
-![lacouleurduroundup](/anthropoweb/images/roundup1.jpg)  
+![lacouleurduroundup](/chora/images/roundup1.jpg)  
 
 
