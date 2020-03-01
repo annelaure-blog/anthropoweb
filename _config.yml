@@ -28,7 +28,7 @@ twitter_username: pickmeupAL
 github_username:  annelaure-blog
 
 # Build settings
-theme: minima
+theme: forma
 plugins:
   - jekyll-feed
 excerpt_separator: <!--more-->
