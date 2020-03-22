@@ -21,11 +21,12 @@
 title: Chôra
 email: denise.andrea@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Le blog d'Anne-Laure : Géo-graphie et autres formes d'écritures
+  Géo-graphie et autres formes d'écritures
 baseurl: "/chora" # the subpath of your site, e.g. /blog
 url: "http://annelaure-blog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pickmeupAL
 github_username:  annelaure-blog
+instagram_username: dwelling_on_earth
 
 # Build settings
 theme: minima
