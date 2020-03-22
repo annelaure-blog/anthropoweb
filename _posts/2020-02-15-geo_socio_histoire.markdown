@@ -8,7 +8,7 @@ author : Anne-Laure
 excerpt_separator: <!--more-->
 
 ---
-## Une démarche exploratoire 
+### Une démarche exploratoire 
 
 L'idée a germé plusieurs mois après avoir commencé à travailler sur une auto-biographie "en fragments". Inspirée par l'écriture
 d'Annie Ernaux dans "La place" et habitée depuis de longues années d'une envie d'écrire sur la trajectoire sociale de ma
@@ -37,9 +37,8 @@ L'évolution de la Terre, toujours dissociée de celle des humains en cela qu'el
 
 Il paraît alors essentiel **d'inventer une forme d'écriture et d'analyse de soi capable de s'inscrire dans ce nouvel environnement et de prendre en compte la géo-histoire comme il est aujourd'hui universellement admis qu'on prend en compte l'histoire dite collective, qu'un bon récit doit être capable d'aller "de l'intime à l'universel"**. Je plaide pour une forme de récit qui irait du soi à la Terre, de la Terre à soi, du monde géo-physique au monde social au monde intérieur. Les humains de l'anthropocène ne se situeraient plus dans une histoire qui ne serait "que" individuelle ou sociale, mais aussi dans une histoire de la Terre qui serait à la fois biologique, géologique, sociale et individuelle. **Cette situation inédite appelle à une urgente réintroduction de la Terre dans la conception occidentale du récit de soi.**
 
-![sangatte]({{"/assets/obus.jpg"|absolute_url}})
 
-## Conceptualiser la géo-autoanalyse
+### Conceptualiser la géo-autoanalyse
 
 ![Schéma conceptuel de la géo-socio-analyse]({{"/assets/geo_socio_histoire.png"|absolute_url}})
 
@@ -65,13 +64,17 @@ Il s'agit de **réinscrire dans l'histoire et le récit de vie des composants et
 
 C'est là que mon exercice autobiographique (qui n'en est pas un) prend tout son sens. Cela est rendu peut-être plus aisé que pour d'autres parce que mon père a travaillé 40 années durant à creuser des tunnels partout en France, et a donc eu un rapport direct à la géologie et aux déplacements massifs de matière terrestre qui impactaient directement nos trajectoires de vie : à chaque fois qu'un tunnel était perçé, nous déménageions pour aller en creuser un autre.
 
+
+![puit_de_sangatte]({{"/assets/puit.jpg"|absolute_url}})
+
+
 C'est d'ailleurs en travaillant sur l'histoire du tunnel sous la Manche, où mon père a passé cinq ans de sa vie et par conséquent ma mère et moi aussi, que j'ai commencé à entrevoir les liens : des morceaux de craie bleue remontés du plancher océanique trônaient sur le rebord de la cheminée, tandis qu'une dent cassée de tunnelier en carbure de tungstène ornait le bureau de mon père, qui l'avait remonté du fond. 
 
 **Des objets a priori anodins mais dont l'exposition dans le décor domestique ne pouvait être neutre**. Dans ma psycho-histoire, il y a la craie bleue du fond de la Manche sur la cheminée, symbole du père et de l'enfance. Dans ma socio-histoire, il y a cette fierté régionale et de classe à avoir travaillé sur "le chantier du siècle". Il y a toutes les cheminées ornées du même morceau de craie bleue de Calais et des alentours. Morceaux qui se sont ensuite dispersés dans le monde, au gré des migrations des familles des travailleurs du chantier. Une autre incongruité géologique : la dispersion de cette roche selon des fluxs uniques et non reproductibles. Dans ma géo-histoire, il y a cette anomalie qui a valu à ce morceau de craie du Cénomanien âgé de 93 à 100 millions d'années de se retrouver à la surface de la Terre en 1989, et d'être massivement excavé, broyé puis mélangés à de l'eau de mer pour former une boue, ensuite pompée à la surface pour former un lac de décantation sur la côte du Pas-de-Calais, à quelques kilomètres de là où je grandissais : **le Fond Pignon**.
 
 C'est ce petit lac artificiel de forme étrange, formé des débris du tunnel sous la Manche, que représentent les photos et cartographies qui émaillent cet article.
 
-![sangatte]({{"/assets/puit.jpg"|absolute_url}})
+![fondpignon_geologie]({{"/assets/geologique.png"|absolute_url}})
 
 ## Des pistes d'enquête sur la géo-histoire
 
@@ -85,9 +88,9 @@ Il manque encore de nombreuses étapes à cette recherche expérimentale pour pr
 
 L’objectif est autant de prendre conscience d’un contexte autour de soi, que de s’inscrire dans un territoire et dans une lignée à d’autres échelles que la lignée familiale (lignées sociales, lignées terrestres). Il est aussi de rendre conscient des liens entre les objets, les matériaux et les processus qui les ont amenés à notre connaissance et à notre usage. En pratiquant régulièrement ces exercices, il n’est pas rare de constater le recoupement de nombreuses choses que l’on pensait disjointes ou totalement extérieure à soi.
 
-**Des géo-socio-historien.nes pourraient ainsi faire ce travail de reconstitution des trois dimensions du récit humain, agissant autant comme auteurs, chercheurs, guides et accompagnateurs pour faire atterir nos histoires et nos intériorités, les faire redevenir terrestres.** A nos plumes !
+**Des géo-analystes, biographes, thérapeutes et géographes à la fois, pourraient ainsi faire ce travail de reconstitution des trois dimensions du récit humain, agissant autant comme guides et éclaireurs pour découvrir nos intériorités terrestres.** 
 
-![sangatte]({{"/assets/geologique.png"|absolute_url}})
+
 
 ________________________
 Sources :
