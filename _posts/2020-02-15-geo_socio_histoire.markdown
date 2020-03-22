@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La géo-autoanalyse : proposition pour repenser les récits de soi"
+title:  "La géo-autoanalyse : exercice d'autobiographie géographique"
 date:   2020-02-15 08:00:00
 categories: blog_post
 future: true
