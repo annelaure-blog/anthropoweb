@@ -3,9 +3,9 @@ layout : page
 title : Projets photos
 ---
 
-Photographe amateure, j'ai gardé mes habitudes de géographe et de chercheuse en études urbaines. J'aime photographier les lieux et les paysage et réaliser des séries photographiques, comme des **"carnets de terrain"** pour observer différentes caractéristiques du paysage, de l'habitat, de l'architecture ou de l'urbanisme.  
+J'ai gardé mes habitudes de géographe et de chercheuse en études urbaines, appareil photo en poche et regard balladeur sur la surface terrestre. J'aime photographier les lieux et les paysage et réaliser des séries photographiques, des **"carnets de terrain"** pour observer différentes caractéristiques du paysage et des ambiances.  
 
-Je suis inspirée en particulier par le travail de [Julien Coquentin](http://www.juliencoquentin.com/fr/accueil.html) et sa "poétique de la ville" (séries sur Montréal en particulier).
+Je suis inspirée en particulier par le travail de [Julien Coquentin](http://www.juliencoquentin.com/fr/accueil.html) et sa "poétique de la ville" (série sur Montréal en particulier).
 
 
 ### Ban[lieux]
