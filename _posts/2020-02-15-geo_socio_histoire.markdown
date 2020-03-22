@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Faire atterir la socio-analyse : vers une géo-socio-analyse"
+title:  "La géo-socio-graphie : propositions pour repenser les récits de soi"
 date:   2020-02-15 08:00:00
 categories: blog_post
 future: true
