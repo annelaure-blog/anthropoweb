@@ -6,11 +6,10 @@ permalink: /about/
 
 **A propos**
 
-![alf]({{"/assets/alf.jpg"|absolute_url}})
+![alf]({{"/assets/alf_blue.jpg"|absolute_url}})
 
-Mon nom est Anne-Laure Fréant et **Chôra** est un blog né en 2020 pour partager mes lectures et réflexions en lien avec la géographie, les cultures numériques et l'anthropocène. J'aime aussi [la photo](/anthropoweb/photographies.html), sous forme de carnets de terrain, hérités de mon expérience de doctorante en études urbaines à l'Université du Québec à Montréal. 
+Mon nom est Anne-Laure Fréant (ALF!) et **Chôra** est un blog né en 2020 pour partager mes lectures et réflexions en lien avec la géographie (ma formation d'origine) et les humanités numériques (une passion devenue mon métier). J'aime aussi [la photo de lieux et milieux de vie](/anthropoweb/photographies.html), sous forme de carnets de terrain, hérités de mon expérience de doctorante en études urbaines à l'Université du Québec à Montréal. Je pratique aussi [le modelage en argile de "topographies miniatures"](https://www.instagram.com/dwelling_on_earth/) explorant notre relation intime à la Terre et à sa géomorphologie "du bout des doigts".
 
-Géographe de formation, je m'intéresse aux **enjeux de l'anthropocène** sous l'angle des paysages et des intériorités humaines. 
-Du Canada j'ai rapporté un intérêt pour tout ce qui touche à la **nordicité** et à la **géographie québécoise et canadienne**. De **l'expérience de mon retour en France**, j'ai tiré un [projet](http://retourenfrance.fr) et un [livre](https://retourenfrance.fr/le-guide-du-retour-en-france/) et nourris une réflexion sociologique sur l'expérience des "rentrant.es" qui réintègrent leur société d'origine.
+![dwellingon.earth]({{"/assets/dwellingonearth.png"|absolute_url}})
 
 Ce blog est propulsé par [Jekyll](https://jekyllrb.com/).
