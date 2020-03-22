@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La géo-socio-graphie : propositions pour repenser les récits de soi"
+title:  "La géo-autoanalyse : proposition pour repenser les récits de soi"
 date:   2020-02-15 08:00:00
 categories: blog_post
 future: true
@@ -10,33 +10,28 @@ excerpt_separator: <!--more-->
 ---
 ## Une démarche exploratoire 
 
-L'idée a germé plusieurs mois après avoir commencé à travailler sur un roman auto-biographique. Inspirée par l'écriture
+L'idée a germé plusieurs mois après avoir commencé à travailler sur une auto-biographie "en fragments". Inspirée par l'écriture
 d'Annie Ernaux dans "La place" et habitée depuis de longues années d'une envie d'écrire sur la trajectoire sociale de ma
 famille, faute de ne la voir relater nulle part ailleurs, j'ai tenté de m'atteler à la tâche. 
 
 <!--more-->
 
-Cette écriture était guidée par une volonté d'analyse et de chercheuse en sciences sociales, mais aussi par une quête personnelle de compréhension et d'objectivation de ma propre trajectoire en vue d'un certain soulagement. Ce positionnement ambigü, entre besoin intellectuel et besoin thérapeutique, n'est pas à mon sens si antinomique qu'on le traite habituellement, avec cette répulsion du chercheur en sciences sociales face aux choses dites "non ojectivables". J'étais animée, précisément, par la volonté d'assembler les deux, et de le faire en l'assumant tout à fait, voire en le revendiquant. La voie littéraire était sans doute la meilleure option pour me lancer dans cet exercice expérimental.
+> Cette écriture était guidée par une volonté d'analyse et de chercheuse en sciences sociales, mais aussi par une quête personnelle de compréhension et d'objectivation de ma propre trajectoire en vue d'un certain soulagement. Si les sociologues pratiquent des auto-socioanalyses (comme le fit Bourdieu), les géographes peuvent-ils pratiquer des auto-géoanalyses ? Et à quoi cela pourrait-il ressembler ?
 
 ![sangatte]({{"/assets/sangatte.jpg"|absolute_url}})
 
-Plus tard je lisais le roman de Sylvia Hansel "Noël en Février". Une version contemporaine, drôle et frontale de ce que grandir
-en banlieue rurale dans les années 1990 et 2000 veut dire. Plus amusant à lire que "L'esquisse pour une auto-analyse" de Bourdieu, même si l'exercice de l'auto-socio-analyse ne peut être évoqué sans citer cet ouvrage.
 
->Mon expérience du départ au Canada et du décentrement socio-culturel associé m'a profondément remaniée. Je suis persuadée qu'aujourd'hui, si le récit individuel et la psychothérapie restent nécessaires, il devrait aussi exister des socio-thérapies. Des thérapies de classes capables de prendre en compte aussi les "maux" associés aux migrations sociales.
+### Thérapies et récits de classes (sociales) : la socioanalyse
 
 Soigner la peur du déclassement, soigner l'obligation de conformisme, le déni de soi, le sentiment d'échec, d'exclusion, soigner la honte de classe, soigner aussi la toute puissance illusoire de ceux et celles qui pensent être arrivés seul.es sur le toit du monde. Soigner les abîmés de la pression sociale à réussir ou à tenir "la place" si bien évoquée par Annie Ernaux. Soigner les transclasses ou transfuges de classe en tenant compte de leur situation sociale particulière. 
 
-:::info
 Il n'est pas nouveau de dire que chaque groupe social a ses maux, ou plutôt que les maux frappent les groupes et les personnes en fonction de critères sociaux. Pourtant le soin se fait toujours individuellement, comme si toutes les "psychés" étaient lisses et uniformes, explicables par des lois universelles excluant toute situation sociale, toute position relative dans une société. Guérir, n'est-ce pas prendre conscience de sa situation et des mécanismes sociaux qui déterminent le champ des possibles d'une existence ?
-:::
 
-Poursuivant sur cette idée, je me suis aperçue - guidée par mes instincts de géographe - que dans mon histoire il y avait aussi d'autres composantes importantes laissées de côté par la socio-analyse : ce sont les éléments terrestres. Une géo-chimie, une géo-physique, une géo-biologie, un "état de la matière et du vivant autour de soi" : des géo-histoires. Je me suis alors demandée comment cela pouvait entrer dans la socio-analyse, pour la relier au sol, la "faire atterir" selon l'expression de Bruno Latour, c'est à dire inscrire nos intériorités dans les limites planétaires, elles aussi.
-
+Poursuivant sur cette idée, je me suis aperçue - guidée par mes instincts de géographe - que dans mon histoire il y avait aussi d'autres composantes importantes laissées de côté par la socio-analyse : ce sont les éléments terrestres. Une géo-chimie, une géo-physique, une géo-biologie, un "état de la matière et du vivant autour de soi", des paysages en mouvement : **des géo-histoires**. 
 
 ![sangatte]({{"/assets/fondpignon.jpg"|absolute_url}})
 
-## Intégrer notre expérience "terrestre" aux récits de vie
+### Intégrer notre expérience "terrestre" aux récits de vies
 
 L'évolution de la Terre, toujours dissociée de celle des humains en cela qu'elle évoluerai sur des temps très longs ("les temps géologiques") est aujourd'hui confondue avec le temps humain, puisque l'humain façonne la Terre à des rythmes qui lui sont propres et qui sont devenus déterminants des temps du biologique et du géologique. 
 
@@ -44,7 +39,7 @@ Il paraît alors essentiel **d'inventer une forme d'écriture et d'analyse de so
 
 ![sangatte]({{"/assets/obus.jpg"|absolute_url}})
 
-## Conceptualiser la géo-socio-analyse
+## Conceptualiser la géo-autoanalyse
 
 ![Schéma conceptuel de la géo-socio-analyse]({{"/assets/geo_socio_histoire.png"|absolute_url}})
 
@@ -56,11 +51,15 @@ Benoît Ladouceur, professeur de sciences économiques et sociales, écrit à pr
 
 On voit que la première étape de l'idée que j'avais eue, qui consiste à faire de la "socio-thérapie" ou de la socio-analyse dans l'intention de **permettre la prise de conscience par les dominés (et les autres) des mécanismes sociaux qui les ont menés et les maintiennent là où ils sont** n'est pas nouvelle. Elle ne trouve pourtant pas vraiment d'applications concrètes en matière de soin, et relativement peu d'applications dans les récits de soi, qu'ils soient littéraires ou non. 
 
-Reinscrire la Terre et ses processus géo-physiques, géo-chimiques et géo-biologiques dans le récit de soi passe ainsi par cette double opération : apporter un soin "de classe" et donc des inégalités et des mécanismes à leur origine, mais aussi apporter un soin "terrestre" qui intègre l'état géo-physique du monde à ce que les individus vivent. C'est intégrer différents éléments (très faciles à objectiver, ceux-là) à l'analyse et au récit de soi : les mécanismes en train de se produire à la surface de la Terre au moment et à l'endroit où l'on est né, où l'on a grandi, où l'on vit, où l'on vieillit, où l'on meurt, et les mécanismes qui ont pu affecter les générations précédentes.
+Reinscrire la Terre et ses processus géo-physiques, géo-chimiques et géo-biologiques dans le récit de soi passe ainsi par cette double opération : **apporter un soin "de classe"** et donc des inégalités et des mécanismes à leur origine, mais aussi **apporter un soin "terrestre"** qui intègre l'état géo-physique et les paysages de la surface terrestre aux expériences individuelles.
+
+![sangatte]({{"/assets/fondpignon2.jpg"|absolute_url}})
 
 ## Sur la piste de quelques géo-socio-histoires
 
-Mon intention, si bien plus expérimental à ce stade, est la même que celle énoncée par Bourdieu à propos de la socio-analyse. S'il ne s'agit pas que de permettre aux dominés de prendre conscience d'eux-mêmes, **il est question de permettre aussi aux Terriens que nous sommes de se repenser comme tels, d'une part à l'échelle des temps géologiques (l'anthropocène est sans précédent dans l'histoire de l'humanité) et dans l'espace terrestre (dont le paysage évolue constamment)**. Comme il existe des classes sociales, il existe des groupes de Terriens qui expérimentent la Terre de différentes manières, en relation bien-sûr avec leur socio-histoire (voire schéma ci-dessus) et leur psycho-histoire, mais aussi au-delà de ces dernières, d'une géo-histoire qui demeure ignorée, tue ou tout simplement inconnue de la plupart d'entre nous et tout à fait exclue des réflexions sur les intériorités humaines occidentales.
+Mon intention, si bien plus expérimental à ce stade, est la même que celle énoncée par Bourdieu à propos de la socio-analyse. S'il ne s'agit pas que de permettre aux dominés de prendre conscience d'eux-mêmes, **il est question de permettre aussi aux Terriens que nous sommes de se repenser comme tels, d'une part à l'échelle des temps géologiques (l'anthropocène est sans précédent dans l'histoire de l'humanité) et dans l'espace terrestre (dont le paysage évolue constamment)**. 
+
+> Comme il existe des classes sociales, il existe des groupes de Terriens qui expérimentent la Terre de différentes manières, en relation bien-sûr avec leur socio-histoire (voire schéma ci-dessus) et leur psycho-histoire, mais aussi au-delà de ces dernières, d'une géo-histoire qui demeure ignorée, tue ou tout simplement inconnue de la plupart d'entre nous et tout à fait exclue des réflexions sur les intériorités humaines occidentales.
 
 Il s'agit de **réinscrire dans l'histoire et le récit de vie des composants et des cycles géo-chimiques et géo-physiques, de montrer le caractère non inanimé de nos décors intérieurs**, de nos souvenirs, de ceux qui tapissent l'arrière plan de nos photos d'enfance.
 
@@ -68,11 +67,11 @@ C'est là que mon exercice autobiographique (qui n'en est pas un) prend tout son
 
 C'est d'ailleurs en travaillant sur l'histoire du tunnel sous la Manche, où mon père a passé cinq ans de sa vie et par conséquent ma mère et moi aussi, que j'ai commencé à entrevoir les liens : des morceaux de craie bleue remontés du plancher océanique trônaient sur le rebord de la cheminée, tandis qu'une dent cassée de tunnelier en carbure de tungstène ornait le bureau de mon père, qui l'avait remonté du fond. 
 
-**Des objets a priori anodins mais dont l'exposition dans le décor domestique ne pouvait être neutre**. Dans ma psycho-histoire, il y a la craie bleue du fond de la Manche sur la cheminée, symbole du père et de l'enfance. Dans ma socio-histoire, il y a cette fierté régionale et de classe à avoir travaillé sur "le chantier du siècle". Il y a toutes les cheminées ornées du même morceau de craie bleue de Calais et des alentours. Morceaux qui se sont ensuite dispersés dans le monde, au gré des migrations des familles des travailleurs du chantier. Une autre incongruité géologique : la dispersion de cette roche selon des fluxs uniques et non reproductibles. Dans ma géo-histoire, il y a cette anomalie qui a valu à ce morceau de craie du Cénomanien âgé de 93 à 100 millions d'années de se retrouver à la surface de la Terre en 1989, et d'être massivement excavé, broyé puis mélangés à de l'eau de mer pour former une boue, ensuite pompée à la surface pour former un lac de décantation sur la côte du Pas-de-Calais, à quelques kilomètres de là où je grandissais.
+**Des objets a priori anodins mais dont l'exposition dans le décor domestique ne pouvait être neutre**. Dans ma psycho-histoire, il y a la craie bleue du fond de la Manche sur la cheminée, symbole du père et de l'enfance. Dans ma socio-histoire, il y a cette fierté régionale et de classe à avoir travaillé sur "le chantier du siècle". Il y a toutes les cheminées ornées du même morceau de craie bleue de Calais et des alentours. Morceaux qui se sont ensuite dispersés dans le monde, au gré des migrations des familles des travailleurs du chantier. Une autre incongruité géologique : la dispersion de cette roche selon des fluxs uniques et non reproductibles. Dans ma géo-histoire, il y a cette anomalie qui a valu à ce morceau de craie du Cénomanien âgé de 93 à 100 millions d'années de se retrouver à la surface de la Terre en 1989, et d'être massivement excavé, broyé puis mélangés à de l'eau de mer pour former une boue, ensuite pompée à la surface pour former un lac de décantation sur la côte du Pas-de-Calais, à quelques kilomètres de là où je grandissais : **le Fond Pignon**.
 
-**Une autre illustration à teneur "géologique" qui n'est pas le fait de mon histoire** : une artiste québécoise vivant sur le bord du fleuve Saint-Laurent, au nord de la ville de Québec, récolte et sculpte des silexs (entre autres matériaux) pour son activité d'artisanat d'art. Pourquoi les silexs, plus rares, que toutes les autres roches disponibles sur la rive qu'elle parcourt chaque matin ? Quelque chose appelle l'artiste vers le silex, pour sa facilité de coupe, son esthétisme. Téléscopage de la psycho-histoire (d'artisan, d'artiste, de femme) de cette personne avec sa socio-histoire (descendante de colons français) et la géo-histoire : il n'existe aucune source naturelle de silexs dans la région du Saint Laurent. Les silexs proviennent des lests des navires européens venus coloniser le Canada entre le XVIème et le XVIIème siècle. Ils relient ainsi la psycho-histoire de l'artiste avec sa socio-histoire (descendante des colons français) et la géo-histoire, soit le contexte de formation de cette roche en Europe occidentale.
+C'est ce petit lac artificiel de forme étrange, formé des débris du tunnel sous la Manche, que représentent les photos et cartographies qui émaillent cet article.
 
-Se plaçant du point de vue du silex glané sur les bords du Saint-Laurent, on pourrait dire qu'il a aussi une socio-histoire (leur traversée de l'océan atlantique depuis les côtes de France et d'Angleterre au fond des navires ayant servi à la colonisation du Canada), et une géo-histoire, beaucoup plus ancienne, liée à leurs conditions de formation dans le calcaire (et donc la craie) du Nord-Pas-de-Calais et de la Haute-Normandie (pour les silexs en provenance de France).
+![sangatte]({{"/assets/puit.jpg"|absolute_url}})
 
 ## Des pistes d'enquête sur la géo-histoire
 
@@ -87,6 +86,8 @@ Il manque encore de nombreuses étapes à cette recherche expérimentale pour pr
 L’objectif est autant de prendre conscience d’un contexte autour de soi, que de s’inscrire dans un territoire et dans une lignée à d’autres échelles que la lignée familiale (lignées sociales, lignées terrestres). Il est aussi de rendre conscient des liens entre les objets, les matériaux et les processus qui les ont amenés à notre connaissance et à notre usage. En pratiquant régulièrement ces exercices, il n’est pas rare de constater le recoupement de nombreuses choses que l’on pensait disjointes ou totalement extérieure à soi.
 
 **Des géo-socio-historien.nes pourraient ainsi faire ce travail de reconstitution des trois dimensions du récit humain, agissant autant comme auteurs, chercheurs, guides et accompagnateurs pour faire atterir nos histoires et nos intériorités, les faire redevenir terrestres.** A nos plumes !
+
+![sangatte]({{"/assets/geologique.png"|absolute_url}})
 
 ________________________
 Sources :
