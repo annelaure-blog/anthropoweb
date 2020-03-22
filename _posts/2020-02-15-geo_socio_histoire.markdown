@@ -86,10 +86,9 @@ Il manque encore de nombreuses étapes à cette recherche expérimentale pour pr
 
 - **questionner le patrimoine industriel de ses lieux de vie** : l'anthropocène a été causé par la révolution industrielle. Pas de compréhension de l'histoire géo-physico-chimique de la Terre d'aujourd'hui sans connaissance du patrimoine industriel, ses machines, ses chaînes logistiques, ses usines, ses matériaux et ses procédés. Il est à parier qu'un fin connaisseur du monde de l'industrie serait plus à même d'expliquer le monde d'aujourd'hui, dans ses paysages à sa composition physico-chimique, que tout autre spécialiste. Là encore il ne s'agit pas de devenir expert.e en la matière, mais simplement de parvenir à mettre en relation divers objets (et leurs origines terrestres) avec les technologies qui les ont fabriqué et les implications qu'elles ont eu sur la socio et la psycho-histoire.
 
-L’objectif est autant de prendre conscience d’un contexte autour de soi, que de s’inscrire dans un territoire et dans une lignée à d’autres échelles que la lignée familiale (lignées sociales, lignées terrestres). Il est aussi de rendre conscient des liens entre les objets, les matériaux et les processus qui les ont amenés à notre connaissance et à notre usage. En pratiquant régulièrement ces exercices, il n’est pas rare de constater le recoupement de nombreuses choses que l’on pensait disjointes ou totalement extérieure à soi.
+> L’objectif est autant de prendre conscience d’un contexte autour de soi, que de s’inscrire dans un territoire et dans une lignée à d’autres échelles que la lignée familiale (lignées sociales, lignées terrestres). Il est aussi de rendre conscient des liens entre les objets, les matériaux et les processus qui les ont amenés à notre connaissance et à notre usage. En pratiquant régulièrement ces exercices, il n’est pas rare de constater le recoupement de nombreuses choses que l’on pensait disjointes ou totalement extérieure à soi.
 
 **Des géo-analystes, biographes, thérapeutes et géographes à la fois, pourraient ainsi faire ce travail de reconstitution des trois dimensions du récit humain, agissant autant comme guides et éclaireurs pour découvrir nos intériorités terrestres.** 
-
 
 
 ________________________
